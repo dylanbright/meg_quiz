@@ -146,7 +146,7 @@ questionResults.forEach(result => {
     }
 });
 
-resultsContainer.innerHTML = `You scorerd ${correctCount} out of ${selectedQuestions.length}!`;
+resultsContainer.innerHTML = `Your score:<br/> ${correctCount} out of ${selectedQuestions.length}!`;
 resultsContainer.style.display = "block";
 correctQuestionsContainer.style.display = "block";
 incorrectQuestionsContainer.style.display = "block";
