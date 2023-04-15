@@ -44,4 +44,29 @@ body {
     padding: 5px;
     margin: 5px;
   }
+
+  #options {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #options label {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  #options input[type="radio"] {
+    margin-right: 10px;
+  }
+  
+  #question {
+    text-align: left;
+    font-size: 1.2em;
+    margin-left: 50px;
+  }
+  
   

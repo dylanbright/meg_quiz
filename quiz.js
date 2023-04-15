@@ -61,20 +61,36 @@ function getRandomQuestions(count) {
   return shuffledQuestions.slice(0, count);
 }
 
+// function displayQuestion() {
+//   questionElement.textContent = selectedQuestions[currentQuestionIndex].question;
+//   optionsContainer.innerHTML = "";
+//   selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
+//     const optionElement = document.createElement("label");
+//     optionElement.innerHTML = `
+//       <br/><input type="radio" name="option" value="${option}" />
+//       ${option}
+//     `;
+//     optionsContainer.appendChild(optionElement);
+//   });
+//   // clear the feedback message
+//   questionFeedback.textContent = "";
+// }
+
 function displayQuestion() {
-  questionElement.textContent = selectedQuestions[currentQuestionIndex].question;
-  optionsContainer.innerHTML = "";
-  selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
-    const optionElement = document.createElement("label");
-    optionElement.innerHTML = `
-      <br/><input type="radio" name="option" value="${option}" />
-      ${option}
-    `;
-    optionsContainer.appendChild(optionElement);
-  });
-  // clear the feedback message
-  questionFeedback.textContent = "";
-}
+    questionElement.innerHTML = `<div style="text-align: left; font-size: 20px;">${selectedQuestions[currentQuestionIndex].question}</div><br>`;
+    optionsContainer.innerHTML = "";
+    selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
+      const optionElement = document.createElement("label");
+      optionElement.innerHTML = `
+        <input type="radio" name="option" value="${option}" />
+        ${option}<br>
+      `;
+      optionsContainer.appendChild(optionElement);
+    });
+    // clear the feedback message
+    questionFeedback.textContent = "";
+  }
+  
 
 function nextQuestion() {
     const selectedOption = document.querySelector('input[name="option"]:checked');
