@@ -98,7 +98,7 @@ body {
   .results-centered {
     margin: 0 auto;
     width: 50%; /* Adjust the width as needed */
-    text-align: left;
+    text-align: center;
     font-weight: bold;
     font-size: 24px
   }
