@@ -111,9 +111,9 @@
     {
       "chapter": "0. Pre-Battle System",
       "question": "What does a player's PBS map cards number depend on?",
-      "correct_answer": "Army commander quality and bonus for a large number of scount troops.",
+      "correct_answer": "Army commander quality and bonus for a large number of scout troops.",
       "options": [
-        "Army commander quality and bonus for a large number of scount troops.",
+        "Army commander quality and bonus for a large number of scout troops.",
         "Territory types and army size.",
         "Army commander quality and territory types."
       ]
