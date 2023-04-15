@@ -11,12 +11,14 @@
      <img src="banner.png" alt="Banner Image">
   </div>
   <div id="setup">
-    <a href="about_the_quiz.html"><strong>About the quiz</strong></a><br/>
+    <a href="about_the_quiz.html"><strong>About the Quiz</strong></a><br/>
     <h2>Select Chapters from which questions will be drawn.</h2>
     <div id="chapters"></div>
     <h2>How many questions do you want?</h2>
+    
     <input type="number" id="question-count" min="1" pattern="\d+" title="Please enter a valid number.">
     <button id="start-btn" onclick="startQuiz()">Start Quiz</button>
+    <p>Enter a number in the box above.  There are currently a total of 242 unique questions for all chapters. Each chapter has anywhere from 3 to 35 questions.  If you ask for more questions than we have for your selected chapters, you will be asked all available questions for the chapeters yous selected.</p>
   </div>
   <div id="quiz-container" style="display:none;">
     <div id="question"></div>

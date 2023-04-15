@@ -1764,10 +1764,10 @@
     {
       "chapter": "7. Shooting",
       "question": "Which troops may choose to use shield cover when shot at?",
-      "correct_answer": "UGs in any shooting phase",
+      "correct_answer": "UGs in any shooting phase who have the shield cover trait.",
       "options": [
-        "UGs in any shooting phase",
-        "UGs only in the charge phase",
+        "SUGs in any shooting phase",
+        "UGs in any shooting phase who have the shield cover trait.",
         "All troops"
       ]
     },
