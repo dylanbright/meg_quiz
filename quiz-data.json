@@ -1,0 +1,2461 @@
+[
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "How many days does the pre-battle system represent?",
+      "correct_answer": "Five days",
+      "options": [
+        "Five days",
+        "Three days",
+        "Seven days",
+        "Ten days"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What are the four pieces of information used in the pre-battle system?",
+      "correct_answer": "Army commander quality, territory types, PBS map cards, scouting cards",
+      "options": [
+        "Army commander quality, territory types, PBS map cards, scouting cards",
+        "Army size, terrain, weather, scouting cards",
+        "Army commander quality, army size, terrain, weather",
+        "Commander quality, unit types, terrain, weather"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What determines whether you invade or defend?",
+      "correct_answer": "Rolling a death dice based on your army commander's quality",
+      "options": [
+        "Rolling a death dice based on your army commander's quality",
+        "Size of your army",
+        "Randomly choosing",
+        "Choosing based on terrain preference"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What do your PBS map cards determine?",
+      "correct_answer": "Where a battle is fought after 5 days of maneuvering",
+      "options": [
+        "Where a battle is fought after 5 days of maneuvering",
+        "How many troops you have",
+        "What terrain is present",
+        "The weather conditions"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What do scouting cards determine?",
+      "correct_answer": "If you have a good look at your opponent's deployment before battle",
+      "options": [
+        "If you have a good look at your opponent's deployment before battle",
+        "What terrain is present",
+        "The size of your army",
+        "The weather conditions"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What happens if you win the death dice roll with a Skull?",
+      "correct_answer": "You can choose to invade with a strategic intercept",
+      "options": [
+        "You can choose to invade with a strategic intercept",
+        "You automatically win the battle",
+        "Your army gets a terrain advantage",
+        "Your opponent's army size is reduced"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the minimum number of PBS map cards an army can have?",
+      "correct_answer": "3",
+      "options": [
+        "3",
+        "1",
+        "2",
+        "4"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the maximum number of PBS map cards an army can have?",
+      "correct_answer": "9",
+      "options": [
+        "9",
+        "10",
+        "8",
+        "12"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "How is the territory type for the battle determined?",
+      "correct_answer": "From the first PBS card played against each other",
+      "options": [
+        "From the first PBS card played against each other",
+        "Randomly selected",
+        "Chosen by the defending player",
+        "Chosen by the attacking player"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What are the four pieces of information used in the pre-battle system?",
+      "correct_answer": "Army commander quality, territory types, PBS map cards, scouting cards.",
+      "options": [
+        "Army commander quality, territory types, PBS map cards, scouting cards.",
+        "Army size, terrain types, PBS map cards, scouting cards.",
+        "Army commander quality, terrain types, PBS cards, scouting units."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What does a player's PBS map cards number depend on?",
+      "correct_answer": "Army commander quality and bonus for a large number of scount troops.",
+      "options": [
+        "Army commander quality and bonus for a large number of scount troops.",
+        "Territory types and army size.",
+        "Army commander quality and territory types."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the purpose of scouting cards?",
+      "correct_answer": "To decide if a player has a good look at opponents' deployment.",
+      "options": [
+        "To decide if a player has a good look at opponents' deployment.",
+        "To determine the winner of the pre-battle system.",
+        "To choose the territory type."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "How is the winner of the dice roll for choosing to invade or defend determined?",
+      "correct_answer": "By rolling a death dice according to the army commander quality.",
+      "options": [
+        "By rolling a death dice according to the army commander quality.",
+        "By rolling a standard dice and adding army size.",
+        "By rolling a dice and adding the number of territory types."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "How is the territory type for the battle determined?",
+      "correct_answer": "Based on the first card played by each player.",
+      "options": [
+        "Based on the first card played by each player.",
+        "By the winner of the dice roll for choosing to invade or defend.",
+        "Randomly selected from the defender's territory types."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "How does the PBS map depict different terrain densities?",
+      "correct_answer": "On the horizontal axis of the grid.",
+      "options": [
+        "On the vertical axis of the grid.",
+        "On the horizontal axis of the grid.",
+        "By color-coding the squares."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What happens if a player has fewer than 6 PBS cards?",
+      "correct_answer": "They are considered vulnerable in the PBS stage.",
+      "options": [
+        "They automatically lose the pre-battle system.",
+        "They are considered vulnerable in the PBS stage.",
+        "They get extra scouting cards."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What are the three types of terrain mentioned in the text, and where can you find more information about them?",
+      "correct_answer": "Good going, rough, difficult; see pre-battle terrain table for more info.",
+      "options": [
+        "Good going, rough, difficult; see pre-battle terrain table for more info.",
+        "Grass, sand, and water; see terrain table.",
+        "Plains, hills, and forests; see rulebook."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "How is the movement speed of an UG affected if any base of the UG goes even partly into rough or difficult terrain?",
+      "correct_answer": "The entire UG is slowed to the speeds for rough or difficult terrain.",
+      "options": [
+        "The entire UG is slowed to the speeds for rough or difficult terrain.",
+        "Only the base in rough or difficult terrain is slowed.",
+        "UG speed is not affected."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "When can an UG move at the speed of the remaining bases after losing some slower bases?",
+      "correct_answer": "If all slower bases are lost.",
+      "options": [
+        "If all slower bases are lost.",
+        "If at least half of slower bases are lost.",
+        "If at least one slower base is lost."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What factor can reduce the maximum movement distance of a unit, aside from terrain and formation?",
+      "correct_answer": "The slowing effect of fire.",
+      "options": [
+        "The slowing effect of fire.",
+        "Weight of the unit.",
+        "Experience level of the unit."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What are the two circumstances in which a general can move during a charge phase and a movement phase?",
+      "correct_answer": "A general may move on their own or with an UG they are with if it moves.",
+      "options": [
+        "A general may move on their own or with an UG they are with if it moves.",
+        "A general may move only when prompted or when avoiding fire.",
+        "A general may move when charging or retreating."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "How is the maximum movement distance for generals not attached to a UG determined?",
+      "correct_answer": "Same as for skirmish cavalry.",
+      "options": [
+        "Same as for skirmish cavalry.",
+        "Same as for close infantry.",
+        "Same as for loose infantry."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What are the five terrain densities mentioned in the text?",
+      "correct_answer": "Very Dense, Dense, Normal, Open, Featureless",
+      "options": [
+        "Very Dense, Dense, Normal, Open, Featureless",
+        "Heavy, Moderate, Normal, Light, Empty",
+        "Thick, Average, Regular, Sparse, Bare"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the minimum size for compulsory terrain pieces?",
+      "correct_answer": "6BW x 6BW",
+      "options": [
+        "6BW x 6BW",
+        "4BW x 4BW",
+        "8BW x 8BW"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the maximum size for compulsory terrain pieces?",
+      "correct_answer": "10BW x 10BW",
+      "options": [
+        "10BW x 10BW",
+        "12BW x 12BW",
+        "8BW x 8BW"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the minimum size for optional terrain pieces?",
+      "correct_answer": "4BW x 4BW",
+      "options": [
+        "4BW x 4BW",
+        "6BW x 6BW",
+        "8BW x 8BW"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the maximum size for optional terrain pieces?",
+      "correct_answer": "8BW x 8BW",
+      "options": [
+        "8BW x 8BW",
+        "10BW x 10BW",
+        "12BW x 12BW"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "Which color represents Good Going terrain on the terrain table?",
+      "correct_answer": "Green",
+      "options": [
+        "Green",
+        "Light-brown",
+        "Mid-brown"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "Which color represents Rough terrain on the terrain table?",
+      "correct_answer": "Light-brown",
+      "options": [
+        "Light-brown",
+        "Green",
+        "Mid-brown"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "Which color represents Difficult terrain on the terrain table?",
+      "correct_answer": "Mid-brown",
+      "options": [
+        "Mid-brown",
+        "Green",
+        "Light-brown"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the visibility restriction for troops inside a forest?",
+      "correct_answer": "1 BW",
+      "options": [
+        "1 BW",
+        "2 BW",
+        "3 BW"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the visibility restriction for infantry inside brush?",
+      "correct_answer": "3 BW",
+      "options": [
+        "3 BW",
+        "1 BW",
+        "2 BW"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "How many compulsory terrain pieces are placed in a Normal density battle?",
+      "correct_answer": "2",
+      "options": [
+        "2",
+        "3",
+        "1"
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What are the possible terrain effects after an adjustment roll?",
+      "correct_answer": "4+ = move up to 6BW, 5+ = as above or pivot it, 6 = as above or remove it.",
+      "options": [
+        "4+ = move up to 6BW, 5+ = as above or pivot it, 6 = as above or remove it.",
+        "1-3 = no change, 4-5 = move up to 6BW, 6 = remove it entirely.",
+        "1-2 = move up to 6BW, 3-4 = pivot it, 5-6 = remove it entirely."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What happens to a terrain piece if it cannot be placed?",
+      "correct_answer": "If a terrain piece cannot be placed, it is removed from the game.",
+      "options": [
+        "If a terrain piece cannot be placed, it is removed from the game.",
+        "If a terrain piece cannot be placed, it is replaced with a another piece.",
+        "If a terrain piece cannot be placed, it can be placed in another area."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "When must camps be deployed?",
+      "correct_answer": "Camps are deployed as the first item, touching your rear table edge.",
+      "options": [
+        "Camps are deployed as the first item, touching your rear table edge.",
+        "Camps are deployed after all UGs are placed.",
+        "Camps are deployed after generals are placed."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What must be declared when deploying UGs on the table?",
+      "correct_answer": "Troops are declared and described (grades, skills etc.) as they are deployed.",
+      "options": [
+        "Troops are declared and described (grades, skills etc.) as they are deployed.",
+        "Only the formation must be declared.",
+        "Nothing needs to be declared during deployment."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "Which units cannot participate in a flank march?",
+      "correct_answer": "Army commanders, battlewagons, elephants, artillery, camps.",
+      "options": [
+        "Army commanders, battlewagons, elephants, artillery, camps.",
+        "Allied sub-generals and their troops.",
+        "Units with barricades or obstacles characteristics."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "What is the maximum number of ambushes that can be set up during deployment?",
+      "correct_answer": "Up to three ambushes can be set up.",
+      "options": [
+        "Up to three ambushes can be set up.",
+        "Only one ambush can be set up.",
+        "There is no limit to the number of ambushes."
+      ]
+    },
+    {
+      "chapter": "0. Pre-Battle System",
+      "question": "Where can ambush cards be placed?",
+      "correct_answer": "In your own half of the table and not visible from the opponent's half.",
+      "options": [
+        "In your own half of the table and not visible from the opponent's half.",
+        "Anywhere on the table.",
+        "Only in terrain that blocks visibility."
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What is the difference between a turn, a phase, and a sub-phase?",
+      "correct_answer": "Turn: entire sequence; Phase: 1 of 6 parts; Sub-phase: items like 1.1, 1.2",
+      "options": [
+        "Turn: entire sequence; Phase: 1 of 6 parts; Sub-phase: items like 1.1, 1.2",
+        "Turn: 1 of 6 parts; Phase: items like 1.1, 1.2; Sub-phase: entire sequence",
+        "Turn: items like 1.1, 1.2; Phase: entire sequence; Sub-phase: 1 of 6 parts"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "Who is considered the active player?",
+      "correct_answer": "Player with the pack of command cards",
+      "options": [
+        "Player with the pack of command cards",
+        "Player who goes first",
+        "Player who goes second"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What happens when both players pass consecutively in a sub-phase?",
+      "correct_answer": "Sub-phase stops",
+      "options": [
+        "Sub-phase stops",
+        "Turn ends",
+        "Turn goes back to the previous sub-phase"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What is the role of the invader during a turn?",
+      "correct_answer": "Active first",
+      "options": [
+        "Active first",
+        "Active second",
+        "No special role"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What does a professional general receive when holding one more card than their allowance?",
+      "correct_answer": "No new cards",
+      "options": [
+        "No new cards",
+        "One extra card",
+        "Discard one card"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What are the three types of charges mentioned in the text?",
+      "correct_answer": "Forced, free, and prompted",
+      "options": [
+        "Forced, free, and prompted",
+        "Front, flank, and rear",
+        "Single, block, and group"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What action can a general take within 2BW to recover lost movement distance from shooting?",
+      "correct_answer": "Prompt through fire",
+      "options": [
+        "Prompt through fire",
+        "Charge through fire",
+        "Shift through fire"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What types of troops can choose to run away or skirmish when charged?",
+      "correct_answer": "SuGs, cavalry, camelry, and missile-focused chariots",
+      "options": [
+        "SuGs, cavalry, camelry, and missile-focused chariots",
+        "TuGs, infantry, and melee-focused chariots",
+        "TuGs, camelry, and artillery"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What happens when a SuG charges into a TuG in, or partially in, good going?",
+      "correct_answer": "SuG is dispersed and removed unless TuG is near breaking",
+      "options": [
+        "SuG is dispersed and removed unless TuG is near breaking",
+        "Both SuG and TuG are removed from the table",
+        "SuG and TuG continue combat in good going"
+      ]
+    },
+    {
+      "chapter": "1. Playing A Turn",
+      "question": "What happens to routers when they meet friendly troops?",
+      "correct_answer": "Burst through them causing KaB tests unless either is a foot SuG",
+      "options": [
+        "Burst through them causing KaB tests unless either is a foot SuG",
+        "Stop and become unengaged",
+        "Merge with the friendly troops"
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What are the two types of generals and how are they classified?",
+      "correct_answer": "Professional and instinctive; legendary, talented, competent, or mediocre",
+      "options": [
+        "Professional and instinctive; legendary, talented, competent, or mediocre",
+        "Senior and junior; talented, skilled, competent, or novice",
+        "Experienced and inexperienced; legendary, skilled, competent, or mediocre"
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum number of generals an army can have?",
+      "correct_answer": "4",
+      "options": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum number of talented or better generals an army can have?",
+      "correct_answer": "2",
+      "options": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the range of the command range for a professional general in a normal game?",
+      "correct_answer": "10BW",
+      "options": [
+        "5BW",
+        "8BW",
+        "10BW"
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum movement distance for generals not attached to a unit?",
+      "correct_answer": "same as skirmish cavalry",
+      "options": [
+        "1BW",
+        "2BW",
+        "same as skirmish cavalry"
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "How many UGs can a legendary general prompt in a block move?",
+      "correct_answer": "5 UGs.",
+      "options": [
+        "2 UGs.",
+        "3 UGs.",
+        "4 UGs.",
+        "5 UGs."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum distance a UG can move in a M3 or M4 block move including a wheel?",
+      "correct_answer": "No UG can exceed its normal maximum distance.",
+      "options": [
+        "No UG can exceed its normal maximum distance.",
+        "No UG can exceed its maximum move distance.",
+        "No UG can exceed its maximum wheel distance.",
+        "No UG can exceed its maximum turn distance."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What are the exceptions when an UG can make more than one action in a turn?",
+      "correct_answer": "Many MF1-M2, F1-F4 after charge, C3 stop a charge, M2,M9,M10 after skirmish/run",
+      "options": [
+        "Many MF1-M2, F1-F4 after charge, C3 stop a charge, M2,M9,M10 after skirmish/run",
+        "Many MF1 and MF2, C3 to stop forced charge.",
+        "F1-F4 after charge, C3 to stop forced charge, and M3 or M4 including a wheel.",
+        "Many MF1 and MF2, F1-F4 after charge, and C4 to countercharge."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum command range for a professional general prompting instinctive troops?",
+      "correct_answer": "8BW.",
+      "options": [
+        "10BW.",
+        "7BW.",
+        "8BW.",
+        "5BW."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What must a UG and general do when making a C2 block move?",
+      "correct_answer": "All UGs must charge in the same direction and have a valid charge target.",
+      "options": [
+        "All UGs must charge in the same direction and have a valid charge target.",
+        "All UGs must wheel through the same angle & can't exceed its normal max distance",
+        "All UGs must move back the same distance."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum command range for a professional general prompting professional troops?",
+      "correct_answer": "10BW.",
+      "options": [
+        "7BW.",
+        "10BW.",
+        "8BW.",
+        "5BW."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What is the maximum number of UGs a mediocre general can prompt in a block move?",
+      "correct_answer": "2 UGs.",
+      "options": [
+        "2 UGs.",
+        "3 UGs.",
+        "4 UGs.",
+        "5 UGs."
+      ]
+    },
+    {
+      "chapter": "2. Command and Generals",
+      "question": "What must a UG and general do when making a C4 block move?",
+      "correct_answer": "UGs must move the same direction and distance & comply with all requirements",
+      "options": [
+        "UGs must move the same direction and distance & comply with all requirements",
+        "UGs must move the same ahead and cannot exceed the speed of the slowest UG.",
+        "All UGs must charge in the same direction and have a valid charge target."
+      ]
+    },
+    {
+      "chapter": "3. Formations",
+      "question": "What are the minimum width and maximum depth for a legal formation out of combat?",
+      "correct_answer": "At least 2 BW wide and up to 4 BW deep.",
+      "options": [
+        "At least 2 BW wide and up to 4 BW deep.",
+        "At least 3 BW wide and up to 5 BW deep.",
+        "At least 1 BW wide and up to 3 BW deep."
+      ]
+    },
+    {
+      "chapter": "3. Formations",
+      "question": "What action is used to switch between formations for flexible infantry?",
+      "correct_answer": "M1 action.",
+      "options": [
+        "M1 action.",
+        "M9 action.",
+        "M14 action."
+      ]
+    },
+    {
+      "chapter": "3. Formations",
+      "question": "What is the requirement to form an orb?",
+      "correct_answer": "All files must be at least 2 ranks deep.",
+      "options": [
+        "All files must be at least 2 ranks deep.",
+        "All files must be at least 3 ranks deep.",
+        "All files must be at least 4 ranks deep."
+      ]
+    },
+    {
+      "chapter": "3. Formations",
+      "question": "What are the movement restrictions for an orb?",
+      "correct_answer": "Can move 1BW in any direction at the cost of GREEN.",
+      "options": [
+        "Can move 1BW in any direction at the cost of GREEN.",
+        "Can move 2BW in any direction at the cost of YELLOW.",
+        "Cannot move while in orb formation."
+      ]
+    },
+    {
+      "chapter": "3. Formations",
+      "question": "When a mixed UG is taking a KaB test, which troop quality should be used?",
+      "correct_answer": "The worst troop quality of the remaining bases.",
+      "options": [
+        "The worst troop quality of the remaining bases.",
+        "The best troop quality of the remaining bases.",
+        "The average troop quality of the remaining bases."
+      ]
+    },
+    {
+      "chapter": "3. Formations",
+      "question": "Which action is used to redress ranks?",
+      "correct_answer": "M1 action.",
+      "options": [
+        "M1 action.",
+        "M9 action.",
+        "M14 action."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What are the three types of terrain mentioned in the text?",
+      "correct_answer": "Good going, rough, and difficult.",
+      "options": [
+        "Good going, rough, and difficult.",
+        "Grass, sand, and water.",
+        "Plains, hills, and forests."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "When is the entire UG slowed to the speeds shown for rough or difficult terrain?",
+      "correct_answer": "When any base of an UG goes even partly into rough or difficult terrain.",
+      "options": [
+        "When any base of an UG goes even partly into rough or difficult terrain.",
+        "When all bases of an UG are in rough or difficult terrain.",
+        "When the majority of the bases in an UG are in rough or difficult terrain."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the maximum movement distance for generals not attached to a UG?",
+      "correct_answer": "Same as for skirmish cavalry.",
+      "options": [
+        "Same as for skirmish cavalry.",
+        "Same as for close infantry.",
+        "Same as for loose infantry."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What can a ½ BW Shift be used for?",
+      "correct_answer": "Move around, align, or join friends, around terrain, avoid table edge or enemy.",
+      "options": [
+        "Move around, align, or join friends, around terrain, avoid table edge or enemy.",
+        "Move around enemy, move around terrain, avoid table edge or avoid friends."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the effect on the maximum movement distance for a UG starting or finishing in African or Cantabrian formation?",
+      "correct_answer": "Reduced by 1BW.",
+      "options": [
+        "Reduced by 1BW.",
+        "Increased by 1BW.",
+        "No change."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "When can generals move?",
+      "correct_answer": "Once in each of the charge phase and movement phase.",
+      "options": [
+        "Once in each of the charge phase and movement phase.",
+        "Only during the charge phase.",
+        "Only during the movement phase."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Which action can a general use to reverse any slowing effects?",
+      "correct_answer": "CM2. Generals within 2BW prompting through fire.",
+      "options": [
+        "CM1. Move general.",
+        "CM2. Generals within 2BW prompting through fire.",
+        "M2. Advance directly ahead."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the maximum distance a SuG may contract or expand while making an M2 action?",
+      "correct_answer": "Up to 2 files",
+      "options": [
+        "Up to 2 files",
+        "Up to 1 file",
+        "Up to 3 files"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the maximum angle a single wheel (M3) can have?",
+      "correct_answer": "90 degrees",
+      "options": [
+        "90 degrees",
+        "45 degrees",
+        "180 degrees"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the minimum distance directly ahead between each wheel in a double wheel (M4)?",
+      "correct_answer": "At least 1BW",
+      "options": [
+        "At least 1BW",
+        "At least 2BW",
+        "At least 3BW"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Which action allows an UG to move ahead its maximum movement distance and then shift up to 1 BW to either side?",
+      "correct_answer": "M5. Full ahead with shift.",
+      "options": [
+        "M4. Advance with a double wheel.",
+        "M5. Full ahead with shift.",
+        "M6. Advance and contract."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Which action allows a UG to turn 180 degrees on the spot?",
+      "correct_answer": "M9. Turn 90o or 180o on the spot.",
+      "options": [
+        "M8. Contract on the spot.",
+        "M9. Turn 90o or 180o on the spot.",
+        "M10. Turn 180o with move."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the maximum distance a Cavalry UG may move back directly to its rear in a fall back action?",
+      "correct_answer": "Lower of 3BW or its speed in terrain",
+      "options": [
+        "Lower of 3BW or its speed in terrain",
+        "Lower of 2BW or its speed in terrain",
+        "Lower of 4BW or its speed in terrain"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What action allows a UG to make two consecutive GREEN or WHITE moves?",
+      "correct_answer": "M14. Double Move.",
+      "options": [
+        "M13. Fall back with other troops.",
+        "M14. Double Move.",
+        "M15. Move Artillery."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What cannot pass through a camp?",
+      "correct_answer": "Nothing can pass through a camp.",
+      "options": [
+        "Nothing can pass through a camp.",
+        "Only infantry can pass through a camp.",
+        "Only cavalry can pass through a camp."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Which unit types are allowed to pass through friendly infantry SuGs or artillery?",
+      "correct_answer": "All troops",
+      "options": [
+        "All troops",
+        "Only infantry",
+        "Only cavalry"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Under what conditions can a TuG displace a friendly SuG?",
+      "correct_answer": "When making any movement with bases of a TuG",
+      "options": [
+        "When making any movement with bases of a TuG",
+        "Only during combat",
+        "Only during forced movement"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the primary purpose of the Close Proximity Zone (CPZ)?",
+      "correct_answer": "To stop UGs walking across a front to go past them and end up on their flank",
+      "options": [
+        "To stop UGs walking across a front to go past them and end up on their flank",
+        "To increase unit cohesion",
+        "To prevent charging"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What are the dimensions of an UG's Close Proximity Zone (CPZ)?",
+      "correct_answer": "Its frontage wide and 1BW directly ahead",
+      "options": [
+        "Its frontage wide and 1BW directly ahead",
+        "Its frontage wide and 2BW directly ahead",
+        "Its frontage wide and 3BW directly ahead"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "In which two situations do enemy SuGs not limit the movement of your TuG's first moves?",
+      "correct_answer": "Within terrain and contacted by enemy TuGs affected by terrain, in close combat",
+      "options": [
+        "Within terrain and contacted by enemy TuGs affected by terrain, in close combat",
+        "In close combat, charging the enemy",
+        "Flanking the enemy, in close combat"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What happens if an enemy SuG is pushed back off table or into impassable terrain?",
+      "correct_answer": "It must run away",
+      "options": [
+        "It must run away",
+        "It is destroyed",
+        "It stops at the terrain edge"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What happens to an enemy SuG that has been pushed back more than its normal move?",
+      "correct_answer": "It suffers a KaB test",
+      "options": [
+        "It suffers a KaB test",
+        "It is destroyed",
+        "It stops at the terrain edge"
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "How can an UG create a melee combat in the movement phase?",
+      "correct_answer": "Align 1BW, make a wheel into side contact, or make an MF1 action.",
+      "options": [
+        "Align 1BW, make a wheel into side contact, or make an MF1 action.",
+        "Charge, pursue, or make an MF2 action.",
+        "Align 2BW, make a wheel into side contact, or make an MF1 action."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "How can an UG in side contact with an enemy create a melee combat?",
+      "correct_answer": "Use an M9 turn 90°.",
+      "options": [
+        "Align 1BW.",
+        "Use an M9 turn 90°.",
+        "Charge or pursue."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Which move can you make with an UG in combat?",
+      "correct_answer": "MF1, MF2, or F2-F4 break off moves.",
+      "options": [
+        "MF1, MF2, or F2-F4 break off moves.",
+        "MF1, MF2, or F1-F3 break off moves.",
+        "MF1, M9, or F2-F4 break off moves."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What can an engaged base NOT do?",
+      "correct_answer": "Make MF1 moves.",
+      "options": [
+        "Make MF1 moves.",
+        "Make MF2 moves.",
+        "Break off from combat."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What is the maximum move distance for a break-off?",
+      "correct_answer": "1BW less than the normal maximum move distance.",
+      "options": [
+        "1BW less than the normal maximum move distance.",
+        "Equal to the normal maximum move distance.",
+        "2BW less than the normal maximum move distance."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "When can an UG not break off?",
+      "correct_answer": "Fighting in two or more of front, flank, and rear.",
+      "options": [
+        "Fighting in two or more of front, flank, and rear.",
+        "Fighting in only the front or flank.",
+        "Fighting in only the front and rear."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "Which type of camp can be moved?",
+      "correct_answer": "Mobile camp.",
+      "options": [
+        "Mobile camp.",
+        "Static camp.",
+        "Any type of camp."
+      ]
+    },
+    {
+      "chapter": "4. Movement",
+      "question": "What card does a general need to move a mobile camp?",
+      "correct_answer": "A RED card.",
+      "options": [
+        "A GREEN card.",
+        "A YELLOW card.",
+        "A RED card."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When are all charges declared during the turn sequence?",
+      "correct_answer": "SP2.2",
+      "options": [
+        "SP2.1",
+        "SP2.2",
+        "SP2.6",
+        "SP2.3"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What are the three types of charges?",
+      "correct_answer": "Forced, free, and prompted",
+      "options": [
+        "Forced, free, and prompted",
+        "Quick, normal, and slow",
+        "Surprise, regular, and forced",
+        "Aggressive, defensive, and neutral"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What must be done with friendly SuGs to allow friendly UGs to charge?",
+      "correct_answer": "Move them out of the way using a C1 prompted action",
+      "options": [
+        "Move them out of the way using a C1 prompted action",
+        "Destroy them",
+        "Merge them with the charging UGs",
+        "Move them behind the charging UGs"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When can a charge be declared as a block move?",
+      "correct_answer": "Using the C2 prompted action",
+      "options": [
+        "Using the C2 prompted action",
+        "During the initial charge declaration",
+        "When charging through friendly troops",
+        "When the entire army is charging"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Which units cannot charge?",
+      "correct_answer": "Artillery, battlewagons, and troops defending barricades or obstacles",
+      "options": [
+        "Artillery, battlewagons, and troops defending barricades or obstacles",
+        "Cavalry, infantry, and archers",
+        "SuGs, TuGs, and troops defending camps",
+        "All foot soldiers"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When can SuGs charge a TuG?",
+      "correct_answer": "If it is within 1 base of breaking",
+      "options": [
+        "If it is within 1 base of breaking",
+        "Only if they have missile weapons",
+        "If they are in good going terrain",
+        "Never"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What is the 'path of charge' used for?",
+      "correct_answer": "Responses and shooting at chargers",
+      "options": [
+        "Responses and shooting at chargers",
+        "Determining movement distance",
+        "Resolving melee combat",
+        "Calculating charge bonuses"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What can be done to allow troops to charge when blocked by friends?",
+      "correct_answer": "Use the ½ BW shift, displace friendly SuGs, or contract by 1 file",
+      "options": [
+        "Use the ½ BW shift, displace friendly SuGs, or contract by 1 file",
+        "Charge through friendly troops",
+        "Wait for the friendly troops to move",
+        "Force friendly troops to retreat"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What bonus do charges into flanks or rears get at first contact?",
+      "correct_answer": "+4 bonus",
+      "options": [
+        "+2 bonus",
+        "+4 bonus",
+        "+6 bonus"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What are the two conditions required to claim a flank or rear charge benefit?",
+      "correct_answer": "Entire front edge behind target's front edge;1BWx1BW space next to charged base",
+      "options": [
+        "Entire front edge behind target's front edge;1BWx1BW space next to charged base",
+        "At least half the front edge behind target's front edge; No enemy in the way",
+        "Entire front edge behind target's front edge; No friendly bases in the way"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Which troops can use the Shoot & Charge characteristic?",
+      "correct_answer": "Troops adept at firing a volley and following it with a charge",
+      "options": [
+        "Troops adept at firing a volley and following it with a charge",
+        "Troops with long-range missile weapons",
+        "Troops with high movement speed"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When must troops start within shooting range from targets to use Shoot & Charge?",
+      "correct_answer": "When the shooting target is also a charge target",
+      "options": [
+        "When the shooting target is also a charge target",
+        "When they want to fire at multiple targets",
+        "When they want to increase their shooting range"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When do countercharges and intercepts occur in the turn sequence?",
+      "correct_answer": "Turn Sequence SP2.4 using prompted action C4",
+      "options": [
+        "Turn Sequence SP1.2 using prompted action C2",
+        "Turn Sequence SP2.4 using prompted action C4",
+        "Turn Sequence SP3.6 using prompted action C6"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What is the main difference between a countercharge and an intercept?",
+      "correct_answer": "Countercharge, response to being charged;intercept, response to protect an ally",
+      "options": [
+        "Countercharge, response to being charged;intercept, response to protect an ally",
+        "Countercharge is used to increase movement, intercept is not.",
+        "Countercharge is used against enemy Cavalry, intercept is not"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What must be the starting position for a countercharge or intercept?",
+      "correct_answer": "At least 1BW from the charging enemy",
+      "options": [
+        "At least 1BW from the charging enemy",
+        "Directly in front of the charging enemy",
+        "Within 1BW of the charging enemy"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When fighting to flank or rear, what claims can troops use?",
+      "correct_answer": "General combat claims not marked with an asterisk",
+      "options": [
+        "General combat claims not marked with an asterisk",
+        "All combat claims",
+        "Only combat claims marked with an asterisk"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Can Shoot & Charge be used with a countercharge or intercept?",
+      "correct_answer": "No, it cannot be used with countercharge or intercept",
+      "options": [
+        "Yes, it can be used with both countercharge and intercept",
+        "No, it cannot be used with countercharge or intercept",
+        "It can only be used with countercharge"
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When do run away and skirmish responses take place?",
+      "correct_answer": "Before charges are moved at SP2.5.",
+      "options": [
+        "Before charges are moved at SP2.5.",
+        "After charges are moved.",
+        "During the movement phase."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Which TUGs never run away or skirmish in any circumstances?",
+      "correct_answer": "Charging lancers, battle wagon, elephants, devastating chargers, FArm or ArmHrs",
+      "options": [
+        "SuGs with missile weapons.",
+        "Charging lancers, battle wagon, elephants, devastating chargers, FArm or ArmHrs",
+        "Cavalry or camelry TuGs."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What is the effect of troop quality on run away or skirmish response distance?",
+      "correct_answer": "Superior troops are less likely to get caught; poor troops easily get caught",
+      "options": [
+        "No effect on distance.",
+        "Superior troops are less likely to get caught; poor troops easily get caught",
+        "Higher quality troops move shorter distances."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What happens to a SuG that reaches your rear table edge during a run away or skirmish move?",
+      "correct_answer": "They are lost and removed from the game.",
+      "options": [
+        "They are lost and removed from the game.",
+        "They stop immediately.",
+        "They turn and move along the table edge."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What actions can troops who have made a run away or skirmish response perform in the movement phase?",
+      "correct_answer": "MF1, MF2, M2 advance, M9 turn 180°, and M10 turn 180° with Move.",
+      "options": [
+        "MF1, MF2, M2 advance, M9 turn 180°, and M10 turn 180° with Move.",
+        "All movement actions.",
+        "Only MF1 and MF2."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Which troops are allowed to pass through friends without causing KaB tests?",
+      "correct_answer": "Inf. SuGs through friendly TuG or SuG, and all through friendly inf. SuGs or art",
+      "options": [
+        "Inf. SuGs through friendly TuG or SuG, and all through friendly inf. SuGs or art",
+        "Only infantry SuGs.",
+        "All troops."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What are the possible directions for moving during a run away or skirmish response?",
+      "correct_answer": "Directly to your front or rear, or turning to align with direction of charge",
+      "options": [
+        "Directly to your front or rear, or turning to align with direction of charge.",
+        "Left, right, or straight forward.",
+        "In any direction the player chooses."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "After completing a run away response, how should the troops be positioned in relation to the charger?",
+      "correct_answer": "Facing away from the charge.",
+      "options": [
+        "Facing away from the charge.",
+        "Facing towards the charge.",
+        "Remaining in their original position."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What are the allowed prompted actions after a run away or skirmish response in the same turn's movement phase?",
+      "correct_answer": "MF1, MF2, M2 directly ahead, M9 turn 180° on the spot, M10 turn 180° with Move.",
+      "options": [
+        "MF1, MF2, M2 directly ahead, M9 turn 180° on the spot, M10 turn 180° with Move.",
+        "Any prompted action is allowed.",
+        "Only M2 advance directly ahead and M9 turn 180° on the spot."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When can files shoot at chargers?",
+      "correct_answer": "If the path of charge passes within 1BW and ahead of them.",
+      "options": [
+        "If the path of charge passes within 1BW and ahead of them.",
+        "Only when the chargers are within 2BW.",
+        "When the chargers are within 1BW and to the side of the files."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Do 'revealed shooters' fire at chargers?",
+      "correct_answer": "No, revealed shooters do not fire.",
+      "options": [
+        "No, revealed shooters do not fire.",
+        "Yes, revealed shooters fire at chargers.",
+        "Only if the chargers are within 2BW."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What happens if a charging UG is broken by shooting?",
+      "correct_answer": "It does not make a charge move, it will rout in SP2.8.",
+      "options": [
+        "It does not make a charge move, it will rout in SP2.8.",
+        "It continues its charge move.",
+        "It stops immediately and remains in place."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "How is the sequence of moving chargers determined?",
+      "correct_answer": "Active player first, then non-active, alternating until all charges are moved.",
+      "options": [
+        "Active player first, then non-active, alternating until all charges are moved.",
+        "Players move chargers simultaneously.",
+        "Non-active player first, then active, alternate until all charges are moved."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When can chargers alter their direction?",
+      "correct_answer": "To catch a UG that moved due to run away, skirmish, intercept, or countercharge.",
+      "options": [
+        "To catch a UG that moved due to run away, skirmish, intercept, or countercharge.",
+        "At any time during their charge move.",
+        "Only at the beginning of their charge move."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What happens when a SuG in good going is contacted by a charging TuG?",
+      "correct_answer": "SuG is dispersed unless the TuG is within a base of breaking.",
+      "options": [
+        "SuG is dispersed unless the TuG is within a base of breaking.",
+        "SuG remains in place and fights the charging TuG.",
+        "SuG is forced to retreat 1BW."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What happens when a charging UG is hit in the flank or rear?",
+      "correct_answer": "Files contacted to flank or rear are stopped, others may press forward.",
+      "options": [
+        "Files contacted to flank or rear are stopped, others may press forward.",
+        "The entire UG stops moving.",
+        "The UG continues moving without any changes."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "What happens when UGs making forced charges pass through friendly files?",
+      "correct_answer": "Displace passed through files, cause KaBs, destroy/remove burst through SuGs.",
+      "options": [
+        "Displace passed through files, cause KaBs, destroy/remove burst through SuGs.",
+        "The UGs stop moving and remain in place.",
+        "The UGs move around the friendly files."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "Can chargers exceed a 90° wheel at the beginning of a charge?",
+      "correct_answer": "No, the change of direction may not exceed a 90° wheel.",
+      "options": [
+        "No, the change of direction may not exceed a 90° wheel.",
+        "Yes, chargers can wheel up to 180°.",
+        "Yes, chargers can wheel in any direction."
+      ]
+    },
+    {
+      "chapter": "5. Charges and Responses",
+      "question": "When should files claiming flank/rear bonuses be agreed upon?",
+      "correct_answer": "At the time they are moved.",
+      "options": [
+        "At the time they are moved.",
+        "Before the chargers begin their move.",
+        "After all chargers have completed their moves."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What are the two forms of combat in MeG?",
+      "correct_answer": "Charge combat and melee combat.",
+      "options": [
+        "Charge combat and melee combat.",
+        "Direct combat and indirect combat.",
+        "Close combat and ranged combat."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What is a file in MeG?",
+      "correct_answer": "A single base plus all contiguous bases behind it.",
+      "options": [
+        "A single base plus all contiguous bases behind it.",
+        "A row of bases facing the same direction.",
+        "A column of bases in the same formation."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "When can bases turn as needed for fights?",
+      "correct_answer": "While in combat.",
+      "options": [
+        "While in combat.",
+        "Only during the movement phase.",
+        "Only before combat begins."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What can MF1 be used for in combat?",
+      "correct_answer": "Move unengaged bases into a single file for various purposes.",
+      "options": [
+        "Move unengaged bases into a single file for various purposes.",
+        "Turn all bases 90° or 180° to face enemy.",
+        "Move engaged bases to create supporting files."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What can MF2 be used for in combat?",
+      "correct_answer": "Turn any or all bases 90° or 180° to face enemy.",
+      "options": [
+        "Turn any or all bases 90° or 180° to face enemy.",
+        "Move unengaged bases into a single file for various purposes.",
+        "Move engaged bases to create supporting files."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "When can aligning be done?",
+      "correct_answer": "SP2.7, SP4.1, and SP5.1.",
+      "options": [
+        "SP2.7, SP4.1, and SP5.1.",
+        "Only during the movement phase.",
+        "Only before combat begins."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What are the two conditions for aligning with an enemy flank edge?",
+      "correct_answer": "Files aligned corner-to-corner and front edge touching enemy flank edge.",
+      "options": [
+        "Files aligned corner-to-corner and front edge touching enemy flank edge.",
+        "Files aligned edge-to-edge and front edge touching enemy flank edge.",
+        "Files aligned corner-to-corner and rear edge touching enemy flank edge."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "Can UGs align out of a flank/rear contact to avoid flank combat?",
+      "correct_answer": "No, they cannot.",
+      "options": [
+        "No, they cannot.",
+        "Yes, they can.",
+        "Only if they have not engaged in combat yet."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What are the two steps to choosing the order of combats?",
+      "correct_answer": "1) Completing combats in turn, 2) Fighting files within those combats in turn.",
+      "options": [
+        "1) Completing combats in turn, 2) Fighting files within those combats in turn.",
+        "1) Choosing active player, 2) Resolving combats.",
+        "1) Resolving combats, 2) Calculating combat results."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What color is the central dice in combat?",
+      "correct_answer": "GREEN",
+      "options": [
+        "GREEN",
+        "WHITE",
+        "RED"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "Which color dice has 3.5x as much damage as a WHITE dice?",
+      "correct_answer": "RED",
+      "options": [
+        "RED",
+        "GREEN",
+        "YELLOW"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What are the two types of claims in combat?",
+      "correct_answer": "General Combat Claims and Preferred Opponent Claims",
+      "options": [
+        "General Combat Claims and Preferred Opponent Claims",
+        "Offensive Claims and Defensive Claims",
+        "Primary Claims and Secondary Claims"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What are the three most common effects of the special characteristic 'S' in combat?",
+      "correct_answer": "Shatter, Shove, and Shieldwall",
+      "options": [
+        "Shatter, Shove, and Shieldwall",
+        "Strike, Stun, and Suppress",
+        "Shock, Smash, and Stagger"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What are the combat claims of a TuG with stakes against cavalry, camelry, and chariots in charge combat?",
+      "correct_answer": "+4 combat claims",
+      "options": [
+        "+4 combat claims",
+        "+2 combat claims",
+        "+6 combat claims"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What is the effect of the Keil formation on enemy flank charge bonuses?",
+      "correct_answer": "Enemy files cannot claim flank charge bonuses.",
+      "options": [
+        "Enemy files cannot claim flank charge bonuses.",
+        "Keil formation doubles the flank charge bonuses.",
+        "Keil formation has no effect on enemy flank charge bonuses."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What happens to Expendable files' 'S' result in charge combat?",
+      "correct_answer": "It is converted to a Skull result.",
+      "options": [
+        "It is converted to a Skull result.",
+        "It is doubled.",
+        "It is ignored."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What is a supporting file?",
+      "correct_answer": "A file next to another file that is fighting and assists them in combat.",
+      "options": [
+        "A file next to another file that is fighting and assists them in combat.",
+        "A file that is directly behind a fighting file.",
+        "A file that provides additional movement support."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "How many supporting files can a single file have?",
+      "correct_answer": "One on each side.",
+      "options": [
+        "One on each side.",
+        "Only one.",
+        "As many as there are neighboring files."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "Do supporting files contribute to the initial impact of charge combat?",
+      "correct_answer": "No, they only contribute to melee combat.",
+      "options": [
+        "No, they only contribute to melee combat.",
+        "Yes, they contribute to both melee and charge combat.",
+        "They only contribute to charge combat."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What happens to the dice when calculating the dice to add for a supporting file?",
+      "correct_answer": "Downgrade the dice by one colour in the table.",
+      "options": [
+        "Downgrade the dice by one colour in the table.",
+        "Upgrade the dice by one colour in the table.",
+        "Keep the dice at the same colour."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What does a Skull symbol on a death dice represent?",
+      "correct_answer": "A kill, removing an opposing base.",
+      "options": [
+        "A kill, removing an opposing base.",
+        "A wound, placing a wound marker on the opposing UG.",
+        "A special effect in combat for shatter and shove."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What does the Sword & Arrow/X symbol represent?",
+      "correct_answer": "A wound, placing a wound marker on the opposing UG.",
+      "options": [
+        "A wound, placing a wound marker on the opposing UG.",
+        "A kill, removing an opposing base.",
+        "A special effect in combat for shatter and shove."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "How is a base removed when a kill result is achieved?",
+      "correct_answer": "The base in contact has died and rear bases move up to fill the space.",
+      "options": [
+        "The base in contact has died and rear bases move up to fill the space.",
+        "The entire file is removed from the game.",
+        "The base in contact is removed and the file remains the same."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What happens if a UG is broken by combat casualties?",
+      "correct_answer": "It stops fighting immediately and rolls no further dice.",
+      "options": [
+        "It stops fighting immediately and rolls no further dice.",
+        "It continues fighting with reduced effectiveness.",
+        "It is removed from the game."
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "How many opponents can a single base have if surrounded?",
+      "correct_answer": "4 opponents - front, rear, and both flanks",
+      "options": [
+        "4 opponents - front, rear, and both flanks",
+        "2 opponents - front and rear",
+        "3 opponents - front and both flanks"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "When can there be combat in contact situations?",
+      "correct_answer": "Any time an edge contacts an edge or a corner, or a corner contacts an edge",
+      "options": [
+        "Any time an edge contacts an edge or a corner, or a corner contacts an edge",
+        "Only when edges are aligned",
+        "Only when corners touch each other"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "When two bases are in contact with the same edge of an enemy base, who chooses which one will be fought?",
+      "correct_answer": "The player with two bases",
+      "options": [
+        "The player with two bases",
+        "The player with one base",
+        "The player whose turn it is"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "How many times can a base fight in a single phase?",
+      "correct_answer": "A base can only fight once in a phase",
+      "options": [
+        "A base can only fight once in a phase",
+        "A base can fight twice in a phase",
+        "A base can fight as many times as it has opponents"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "How many wounds does it take to break and sack a camp?",
+      "correct_answer": "4 wounds",
+      "options": [
+        "4 wounds",
+        "2 wounds",
+        "6 wounds"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What happens when a general fights in combat?",
+      "correct_answer": "A general gives a claim to the file he is fighting with",
+      "options": [
+        "A general gives a claim to the file he is fighting with",
+        "A general's presence does not affect combat",
+        "A general doubles the claims of the file he is fighting with"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "What is required for a rear rank to provide support in terrain?",
+      "correct_answer": "Its front edge must be entirely out of terrain affecting it",
+      "options": [
+        "Its front edge must be entirely out of terrain affecting it",
+        "Its entire base must be out of the terrain",
+        "At least half of its base must be out of the terrain"
+      ]
+    },
+    {
+      "chapter": "6. Combat",
+      "question": "When do flexible troops get affected by terrain in combat?",
+      "correct_answer": "Based on their formation type at the time of combat",
+      "options": [
+        "Based on their formation type at the time of combat",
+        "Always affected by terrain regardless of formation",
+        "Never affected by terrain due to their flexibility"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What are the four shooting ability grades for shooters?",
+      "correct_answer": "Skilled, Experienced, Unskilled, Charge-Only Shooters",
+      "options": [
+        "Skilled, Experienced, Unskilled, Charge-Only Shooters",
+        "Elite, Veteran, Novice, Charge-Only Shooters",
+        "Expert, Advanced, Beginner, Charge-Only Shooters"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "Which characteristic can only be given to experienced shooters?",
+      "correct_answer": "Cantabrian or African",
+      "options": [
+        "Cantabrian or African",
+        "Integral Shooters",
+        "Missile Focused"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "When can troops inside a gully or wadi be visible without the shooters being visible?",
+      "correct_answer": "When troops are wholly inside and 2BW for troops outside",
+      "options": [
+        "When troops are wholly inside and 2BW for troops outside",
+        "When troops are partially inside and 1BW for troops outside",
+        "When troops are outside and 2BW for troops inside"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "Which direction can troops shoot?",
+      "correct_answer": "Ahead of them",
+      "options": [
+        "Ahead of them",
+        "To their sides",
+        "In any direction"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "When do artillery have a 2BW arc of fire?",
+      "correct_answer": "When shooting at targets beyond 4BW",
+      "options": [
+        "When shooting at targets beyond 4BW",
+        "When shooting at targets within 1BW",
+        "Always"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "How many ranks of friends can files on higher ground shoot over?",
+      "correct_answer": "Up to 2 ranks",
+      "options": [
+        "Up to 2 ranks",
+        "Only 1 rank",
+        "Up to 3 ranks"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What color is the starting dice for shooting?",
+      "correct_answer": "WHITE",
+      "options": [
+        "WHITE",
+        "BLACK",
+        "RED"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "Which troops may choose to use shield cover when shot at?",
+      "correct_answer": "UGs in any shooting phase",
+      "options": [
+        "UGs in any shooting phase",
+        "UGs only in the charge phase",
+        "All troops"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What do Skull and Sword & Arrow/X results represent in shooting?",
+      "correct_answer": "Kills and wounds respectively",
+      "options": [
+        "Kills and wounds respectively",
+        "Misses and hits respectively",
+        "Kills only",
+        "Wounds only"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What is the special 'S' effect for shooting?",
+      "correct_answer": "Slowing down the target",
+      "options": [
+        "Slowing down the target",
+        "Extra damage",
+        "Ignoring cover",
+        "Increased range"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "How is shooting handled in terms of turn order?",
+      "correct_answer": "All shooting is simultaneous",
+      "options": [
+        "All shooting is simultaneous",
+        "Shooters take turns",
+        "Highest initiative shoots first",
+        "Lowest initiative shoots first"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What bonus do foot crossbows standing to receive a charge get?",
+      "correct_answer": "Cause a wound on S results",
+      "options": [
+        "Cause a wound on S results",
+        "Increased range",
+        "Higher accuracy",
+        "Additional dice roll"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What is the purpose of the slowing effect of fire?",
+      "correct_answer": "Simulate skirmishers slowing down opposing troops",
+      "options": [
+        "Simulate skirmishers slowing down opposing troops",
+        "Increase damage",
+        "Force enemy to retreat",
+        "Negate enemy cover"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What extra effect do artillery, firearms, and shower shooting have?",
+      "correct_answer": "Each S result causes an additional 1BW slow effect",
+      "options": [
+        "Each S result causes an additional 1BW slow effect",
+        "Increased range",
+        "Additional dice roll",
+        "Ignore enemy armor"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "How can generals recover movement distance lost due to slowing?",
+      "correct_answer": "Spending cards for a CM2 action in the charge or movement phase",
+      "options": [
+        "Spending cards for a CM2 action in the charge or movement phase",
+        "Automatic recovery during next turn",
+        "Performing a rallying action",
+        "Spending extra movement points"
+      ]
+    },
+    {
+      "chapter": "7. Shooting",
+      "question": "What is the effect of using shield cover on movement?",
+      "correct_answer": "Suffer a 1BW slowing",
+      "options": [
+        "Suffer a 1BW slowing",
+        "No effect on movement",
+        "Increases movement by 1BW",
+        "Movement reduced by half"
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "How can UGs be broken in this game?",
+      "correct_answer": "Suffering casualties from shooting, combat, or KaB tests.",
+      "options": [
+        "Suffering casualties from shooting, combat, or KaB tests.",
+        "Losing a camp or running out of time.",
+        "Breaking formation or failing to follow orders."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "When do UGs break immediately?",
+      "correct_answer": "When casualties are more than ½ for TuGs or more than 1/3 for SuGs.",
+      "options": [
+        "When their losses reach more than 1/4 casualties for TuGs or SuGs.",
+        "When casualties are more than ½ for TuGs or more than 1/3 for SuGs.",
+        "When losses reach more than ½ casualties for TuGs or 1/3 casualties for SuGs."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "When do troops that are broken stop fighting immediately?",
+      "correct_answer": "When they have been broken in the shooting phase.",
+      "options": [
+        "When they have been broken in the combat phase.",
+        "When they have been broken in the pursuit phase.",
+        "When they have been broken in the charge phase."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "What does a rout move consist of?",
+      "correct_answer": "A variable move distance and wheeling/turning away from the enemy.",
+      "options": [
+        "A fixed move distance and moving directly away from the enemy.",
+        "A variable move distance and moving directly away from the enemy.",
+        "A fixed move distance and wheeling/turning towards the enemy."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "What happens when routing troops meet friendly troops?",
+      "correct_answer": "They pass through them causing KaB tests where appropriate.",
+      "options": [
+        "They stop and rally with them.",
+        "They join forces and continue the rout.",
+        "They are destroyed and removed from the table."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "When do UGs not pursue enemy troops that rout?",
+      "correct_answer": "When they are still in contact with enemy troops they are in a position to fight in melee combat.",
+      "options": [
+        "When they are out of command range.",
+        "When they are out of formation.",
+        "When they are out of ammunition."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "Which troops have reduced pursuit move distances?",
+      "correct_answer": "Infantry and cavalry/camelry/chariots with F1 prompted action.",
+      "options": [
+        "Mounted troops and elephants with F1 prompted action.",
+        "Infantry and archers with F2 prompted action.",
+        "Artillery and camps with F3 prompted action."
+      ]
+    },
+    {
+      "chapter": "8. Routs and Pursuits",
+      "question": "What happens when a new enemy is contacted during a pursuit move?",
+      "correct_answer": "It is treated as a charge move and files may press forward.",
+      "options": [
+        "The pursuit move stops and the UGs reform.",
+        "The UGs continue their rout and ignore the new enemy.",
+        "The UGs must make a KaB test or be destroyed immediately."
+      ]
+    },
+    {
+      "chapter": "9. KAB Tests",
+      "question": "What is the purpose of Kill a Base (KAB) tests in Mortem et Gloriam?",
+      "correct_answer": "To reflect indirect morale effects on troops without causing casualties",
+      "options": [
+        "To reduce the number of casualties in an UG",
+        "To represent major rallying effects on the battlefield",
+        "To cause casualties on enemy UGs",
+        "To reflect indirect morale effects on troops without causing casualties"
+      ]
+    },
+    {
+      "chapter": "9. KAB Tests",
+      "question": "What is the timing of KaB tests for an enemy UG that breaks or is destroyed?",
+      "correct_answer": "Immediately after the breaking or destruction",
+      "options": [
+        "At the end of the turn phase",
+        "At the end of the current phase",
+        "Before the charge phase",
+        "Immediately after the breaking or destruction"
+      ]
+    },
+    {
+      "chapter": "9. KAB Tests",
+      "question": "Which troop types always start on a WHITE dice for KaB tests?",
+      "correct_answer": "Elephants and Battlewagons",
+      "options": [
+        "Infantry and cavalry",
+        "Archers and slingers",
+        "Artillery and skirmishers",
+        "Elephants and Battlewagons"
+      ]
+    },
+    {
+      "chapter": "9. KAB Tests",
+      "question": "When can you claim a KaB test on an enemy general?",
+      "correct_answer": "When you kill a base in a file, and the general is fighting in the front rank.",
+      "options": [
+        "When you break an enemy UG that is in combat",
+        "When an enemy general voluntarily leaves a combat",
+        "When an enemy UG bursts through another enemy UG",
+        "When you kill a base in a file, and the general is fighting in the front rank."
+      ]
+    },
+    {
+      "chapter": "9. KAB Tests",
+      "question": "What happens to a general who is wounded during a KaB test?",
+      "correct_answer": "If competent or better, he loses a card allowance but retains status and held cards",
+      "options": [
+        "He becomes a 2-card general",
+        "He is removed from the game",
+        "He loses all his cards as if stunned",
+        "If competent or better, loses a card allowance but retains status and held cards"
+      ]
+    },
+    {
+      "chapter": "9. KAB Tests",
+      "question": "What is the effect of a Sword & Arrow (X) on a general during a KaB test?",
+      "correct_answer": "It wounds the general. It permanently drops the general's card allowance.",
+      "options": [
+        "It kills the general",
+        "It stuns the general",
+        "It wounds the general. It permanently drops the general's card allowance."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "What is the purpose of generals recovering wounds?",
+      "correct_answer": "To urge troops to ignore damage they are taking.",
+      "options": [
+        "To increase combat effectiveness.",
+        "To heal their own wounds.",
+        "To urge troops to ignore damage they are taking."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "How far away can a general be from a unit to remove a wound with a command card?",
+      "correct_answer": "4BW.",
+      "options": [
+        "5BW.",
+        "3BW.",
+        "4BW."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "What color command card can be used to remove a wound from a unit in combat?",
+      "correct_answer": "RED.",
+      "options": [
+        "YELLOW.",
+        "BLUE.",
+        "RED."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "What happens to after a camp is broken?",
+      "correct_answer": "The Opponent gets a KaB test on every UG in your entire army.",
+      "options": [
+        "It immediately counts as 2 TuGs towards breaking your army.",
+        "It is automatically rebuilt.",
+        "The Opponent gets a KaB test on every UG in your entire army."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "What happens if a UG currently contains 9 or more bases during a KaB test caused by a sacked camp?",
+      "correct_answer": "It takes two KaB tests.",
+      "options": [
+        "It is immediately removed from play.",
+        "It gains a combat bonus.",
+        "It takes two KaB tests."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "When do S rolls from KaBs caused by a sacked camp occur?",
+      "correct_answer": "After slows have been removed in turn sequence SP6.1.",
+      "options": [
+        "Immediately after a camp has been sacked.",
+        "Before slows have been removed in turn sequence SP6.1.",
+        "After slows have been removed in turn sequence SP6.1."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "What is the purpose of a fortified camp in the game?",
+      "correct_answer": "To be a difficult target to sack.",
+      "options": [
+        "To provide additional cover for troops.",
+        "To generate additional resources.",
+        "To be a difficult target to sack."
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "When can wounds be removed from an UG using command cards from a general within 4BW?",
+      "correct_answer": "Turn Sequence SP6.1",
+      "options": [
+        "Turn Sequence SP6.1",
+        "Turn Sequence SP6.2",
+        "Turn Sequence SP6.3"
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "What happens to a broken camp in turn sequence SP6.3?",
+      "correct_answer": "Opponent gets a KaB test on every on-table UG in entire army",
+      "options": [
+        "It immediately counts as 1 TuG towards breaking your army",
+        "It is sacked",
+        "Opponent gets a KaB test on every on-table UG in entire army"
+      ]
+    },
+    {
+      "chapter": "10. End of Turn Phase",
+      "question": "When are S rolls from KaBs caused by a sacked camp resolved?",
+      "correct_answer": "After slows have been removed in turn sequence SP6.1",
+      "options": [
+        "During turn sequence SP6.2",
+        "After all UGs have moved",
+        "After slows have been removed in turn sequence SP6.1"
+      ]
+    },
+    {
+      "chapter": "11. Flank Marches",
+      "question": "What cards can be used to get a flank march to arrive?",
+      "correct_answer": "Only RED cards",
+      "options": [
+        "Only GREEN cards",
+        "Only BLUE cards",
+        "Only RED cards and YELLOW cards"
+      ]
+    },
+    {
+      "chapter": "11. Flank Marches",
+      "question": "How many RED cards are needed for a flank march to arrive if it contains only flexible cavalry, flexible camelry, or SuGs?",
+      "correct_answer": "1",
+      "options": [
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "chapter": "11. Flank Marches",
+      "question": "What happens if a mediocre general leads a flank march that contains any other troops besides flexibles?",
+      "correct_answer": "The flank march needs 3x RED cards and any troops not brought on are lost",
+      "options": [
+        "The flank march needs 2x RED cards and all troops arrive dismounted",
+        "The flank march needs 1x RED card and all troops arrive in skirmish form",
+        "The flank march needs 3x RED cards and any troops not brought on are lost"
+      ]
+    },
+    {
+      "chapter": "11. Flank Marches",
+      "question": "When can a flank march that has sufficient RED cards arrive on the table?",
+      "correct_answer": "Any movement phase after the cards are accumulated",
+      "options": [
+        "Only in turn sequence SP6.3",
+        "Only in turn sequence SP6.4",
+        "Any movement phase after the cards are accumulated"
+      ]
+    },
+    {
+      "chapter": "11. Flank Marches",
+      "question": "What is the rule regarding UGs arriving from a flank march that may not go within 6BW of any enemy flank marching UGs previously brought onto the table this turn?",
+      "correct_answer": "UGs arriving can't go <6BW of enemy flank marching UGs from that turn",
+      "options": [
+        "UGs arriving may immediately charge enemy UGs",
+        "UGs arriving may ignore any terrain on the battlefield",
+        "UGs arriving can't go <6BW of enemy flank marching UGs from that turn"
+      ]
+    },
+    {
+      "chapter": "12. Ambushes",
+      "question": "When must ambushes be revealed?",
+      "correct_answer": "When any enemy UG comes within range to see them",
+      "options": [
+        "During turn sequence SP1.1",
+        "When the commanding general chooses",
+        "When any UG moves on the table"
+      ]
+    },
+    {
+      "chapter": "12. Ambushes",
+      "question": "What must be done with any remaining bases of a revealed ambush that cannot be placed?",
+      "correct_answer": "They are lost",
+      "options": [
+        "They join friendly UGs",
+        "They wait for their next turn",
+        "They can be placed anywhere"
+      ]
+    },
+    {
+      "chapter": "12. Ambushes",
+      "question": "What is the card requirement for an ambushing UG to charge?",
+      "correct_answer": "A single GREEN card",
+      "options": [
+        "A single YELLOW card",
+        "A single BLUE card",
+        "A single RED card"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What is the shatter potential of elephants in charge combat?",
+      "correct_answer": "Automatically shatter potential",
+      "options": [
+        "None",
+        "Automatically shatter potential",
+        "Chance to shatter potential"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What are the two formations that a Battlewagon TuG can be in?",
+      "correct_answer": "Column or line",
+      "options": [
+        "Square or circle",
+        "Column or line",
+        "Triangle or hexagon"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What is the maximum number of bases that can make up a Battlewagon TuG?",
+      "correct_answer": "4",
+      "options": [
+        "2",
+        "4",
+        "6"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What are the two types of actions that an artillery SuG can make?",
+      "correct_answer": "Move or stand and shoot",
+      "options": [
+        "Charge or intercept",
+        "Ambush or run away",
+        "Move or stand and shoot"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What is the footprint size of a camp?",
+      "correct_answer": "3BW x 2BW",
+      "options": [
+        "2BW x 2BW",
+        "3BW x 3BW",
+        "4BW x 4BW"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What is the maximum number of bases that can be attached to a mobile camp?",
+      "correct_answer": "0",
+      "options": [
+        "1",
+        "2",
+        "0"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What type of ground do camelry treat as good going?",
+      "correct_answer": "Sandy ground and sand dunes",
+      "options": [
+        "Plains and hills",
+        "Forests and swamps",
+        "Sandy ground and sand dunes"
+      ]
+    },
+    {
+      "chapter": "13. Unusual Troop Types and Actions",
+      "question": "What type of troop is a stand-alone artillery?",
+      "correct_answer": "SuG",
+      "options": [
+        "UG",
+        "MG",
+        "SuG"
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What does the 'melee expert' characteristic grant to infantry?",
+      "correct_answer": "A claim in melee combat against any enemy except elephants and expendables.",
+      "options": [
+        "A claim to opponents in both charge and melee combat in all circumstances.",
+        "A bonus in melee combat against certain opponents.",
+        "A claim in melee combat against any enemy except elephants and expendables.",
+        "A fearsome charge in any terrain."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What types of troops are covered by the 'combat shy' characteristic?",
+      "correct_answer": "Peasant levy bowmen and skirmishers.",
+      "options": [
+        "Infantry with ranged weapons.",
+        "Cavalry and chariots.",
+        "Peasant levy bowmen and skirmishers.",
+        "Troops with fearsome charges."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What claim does the 'devastating charger' characteristic grant vs. certain opponents?",
+      "correct_answer": "A claim in charge combat against opponents that are 2+ ranks deep.",
+      "options": [
+        "A claim in melee combat against certain opponents.",
+        "A claim in charge combat against all opponents.",
+        "A claim in charge combat against opponents that are 2+ ranks deep.",
+        "A claim in charge combat against opponents with missile weapons."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "When can 'shatter' occur?",
+      "correct_answer": "On Skull, or S results, except when fighting elephants, barricades or obstacles.",
+      "options": [
+        "On any result except Skull, when fighting against elephants.",
+        "On Skull, or S results, except when fighting elephants, barricades or obstacles",
+        "On Skull, or S results, when fighting against 2+ deep close order infantry."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What is the effect of the 'shove' characteristic?",
+      "correct_answer": "It gives a +1 to neighbouring files in both charge combat and melee combat.",
+      "options": [
+        "It cancels all opposing shatter and shove results on the dice.",
+        "It causes a shatter result on Skull or S results.",
+        "It gives a claim against certain opponents in charge combat.",
+        "It gives a +1 to neighbouring files in both charge combat and melee combat."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What is the purpose of stakes in wargames?",
+      "correct_answer": "To provide defence against mounted attacks.",
+      "options": [
+        "To slow down enemy troops.",
+        "To provide cover from shooting.",
+        "To allow troops to move through terrain easily."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "How can stakes be emplaced during the movement phase?",
+      "correct_answer": "By playing cards.",
+      "options": [
+        "By prompting an M1 action.",
+        "By making a block move.",
+        "Stakes cannot be emplaced during the movement phase."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What is the effect of stakes on shooting?",
+      "correct_answer": "Stakes provide no cover against shooting.",
+      "options": [
+        "Troops behind stakes cannot be shot at.",
+        "Stakes give troops behind them a shooting bonus.",
+        "Stakes slow down troops being shot at."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What type of troops do stakes provide barricades combat claims against?",
+      "correct_answer": "Cavalry, camelry and chariots.",
+      "options": [
+        "Infantry, cavalry and elephants.",
+        "Skirmishers, archers and slingers.",
+        "Elephants, chariots and camelry."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What is the purpose of barricades in wargames?",
+      "correct_answer": "To provide cover from shooting.",
+      "options": [
+        "To slow down enemy troops.",
+        "To provide defence against mounted attacks.",
+        "To allow troops to move through terrain easily."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What happens if a UG leaves barricades?",
+      "correct_answer": "They can move through them or play a YELLOW to create gaps.",
+      "options": [
+        "They must dismantle them completely.",
+        "They must replace them after crossing them.",
+        "They must move around them."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What type of troops can't claim any bonuses when fighting against defenders behind obstacles?",
+      "correct_answer": "Cavalry, camelry, chariots and elephants.",
+      "options": [
+        "Infantry, cavalry and elephants.",
+        "Skirmishers, archers and slingers.",
+        "Elephants, chariots and camelry."
+      ]
+    },
+    {
+      "chapter": "Appendix 1: Characteristics",
+      "question": "What is the effect of fleet of foot characteristic in wargames?",
+      "correct_answer": "TuGs with fleet of foot use skirmisher movement distances.",
+      "options": [
+        "TuGs with fleet of foot use standard movement distances.",
+        "Troops with fleet of foot can move twice per turn.",
+        "Fleet of foot provides protection against enemy missile fire."
+      ]
+    },
+    {
+      "chapter": "Appendix 2: Glossary",
+      "question": "What is the definition of 'Active Player'?",
+      "correct_answer": "The player holding the pack. Gets first choice of each step when alternating.",
+      "options": [
+        "The player who is invaded.",
+        "The player holding the pack. Gets first choice of each step when alternating.",
+        "The player with the most troops on the field."
+      ]
+    },
+    {
+      "chapter": "Appendix 2: Glossary",
+      "question": "What is the definition of 'Affected (by terrain)'?",
+      "correct_answer": "Troops whose fighting is impaired by being in terrain.",
+      "options": [
+        "Troops that are not affected by terrain.",
+        "Troops whose fighting is improved by being in terrain.",
+        "Troops whose fighting is impaired by being out of terrain."
+      ]
+    },
+    {
+      "chapter": "Appendix 2: Glossary",
+      "question": "What is the definition of 'Army Counter'?",
+      "correct_answer": "Marker used in the PBS to show the location of the army on the PBS map.",
+      "options": [
+        "The main general in overall command of the entire army.",
+        "Excel based app that allows you to create your armies using drop down menus.",
+        "The dice used to simulate the effects of all shooting and fighting."
+      ]
+    },
+    {
+      "chapter": "Appendix 2: Glossary",
+      "question": "What is the definition of 'Death Dice'?",
+      "correct_answer": "The dice in five colours used to simulate the effects of all shooting and fighting.",
+      "options": [
+        "The dice used to determine which player starts the game.",
+        "The dice used to determine which player goes first in each turn.",
+        "The dice used to evaluate most of the consequences of your choices."
+      ]
+    },
+    {
+      "chapter": "Appendix 2: Glossary",
+      "question": "What is the effect of a shatter result on a unit?",
+      "correct_answer": "Unit must take KaB test or displace.",
+      "options": [
+        "Unit is destroyed immediately.",
+        "Unit is pushed back 2BW.",
+        "Unit must take KaB test or displace."
+      ]
+    },
+    {
+      "chapter": "Appendix 2: Glossary",
+      "question": "What is the difference between a TuG and a SuG?",
+      "correct_answer": "TuGs are main battle troops, SuGs are skirmishers.",
+      "options": [
+        "SuGs are main battle troops, TuGs are skirmishers.",
+        "TuGs are professional troops, SuGs are inexperienced.",
+        "SuGs are the attackers, TuGs are the defenders."
+      ]
+    }
+  ]

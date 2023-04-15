@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Website</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div id="setup">
+    <h2>Select Chapters</h2>
+    <div id="chapters"></div>
+    <h2>Number of Questions</h2>
+    <input type="number" id="question-count" min="1">
+    <button id="start-btn" onclick="startQuiz()">Start Quiz</button>
+  </div>
+  <div id="quiz-container" style="display:none;">
+    <div id="question"></div>
+    <form id="options">
+      <label>
+        <input type="radio" name="option" />
+        <span id="option1"></span>
+      </label>
+      <label>
+        <input type="radio" name="option" />
+        <span id="option2"></span>
+      </label>
+      <label>
+        <input type="radio" name="option" />
+        <span id="option3"></span>
+      </label>
+    </form>
+    <p id="question-feedback" style="color: red;"></p>
+    <button id="next-btn" onclick="nextQuestion()">Submit</button>
+  </div>
+  <div id="correct-answer" style="display:none;"></div>
+  <div id="results" style="display:none;"></div>
+  <div id="correct-questions" style="display:none;">
+    <h3>Correctly answered questions:</h3>
+    <ul></ul>
+  </div>
+  <div id="incorrect-questions" style="display:none;">
+    <h3>Incorrectly answered questions:</h3>
+    <ul></ul>
+  </div>  
+  <script src="quiz.js"></script>
+</body>
+</html>
