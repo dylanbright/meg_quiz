@@ -39,6 +39,8 @@ function displayChapters() {
 
 function startQuiz() {
   selectedChapters = Array.from(document.querySelectorAll('input[name="chapter"]:checked')).map(chapter => chapter.value).sort();
+  selectedChapters.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+
   const questionCount = parseInt(questionCountInput.value);
 
   if (selectedChapters.length === 0 || !questionCount) return;
