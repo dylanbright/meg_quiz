@@ -169,66 +169,6 @@
       ]
     },
     {
-      "chapter": "4. Movement",
-      "question": "What are the three types of terrain mentioned in the text, and where can you find more information about them?",
-      "correct_answer": "Good going, rough, difficult; see pre-battle terrain table for more info.",
-      "options": [
-        "Good going, rough, difficult; see pre-battle terrain table for more info.",
-        "Grass, sand, and water; see terrain table.",
-        "Plains, hills, and forests; see rulebook."
-      ]
-    },
-    {
-      "chapter": "4. Movement",
-      "question": "How is the movement speed of an UG affected if any base of the UG goes even partly into rough or difficult terrain?",
-      "correct_answer": "The entire UG is slowed to the speeds for rough or difficult terrain.",
-      "options": [
-        "The entire UG is slowed to the speeds for rough or difficult terrain.",
-        "Only the base in rough or difficult terrain is slowed.",
-        "UG speed is not affected."
-      ]
-    },
-    {
-      "chapter": "4. Movement",
-      "question": "When can an UG move at the speed of the remaining bases after losing some slower bases?",
-      "correct_answer": "If all slower bases are lost.",
-      "options": [
-        "If all slower bases are lost.",
-        "If at least half of slower bases are lost.",
-        "If at least one slower base is lost."
-      ]
-    },
-    {
-      "chapter": "4. Movement",
-      "question": "What factor can reduce the maximum movement distance of a unit, aside from terrain and formation?",
-      "correct_answer": "The slowing effect of fire.",
-      "options": [
-        "The slowing effect of fire.",
-        "Weight of the unit.",
-        "Experience level of the unit."
-      ]
-    },
-    {
-      "chapter": "4. Movement",
-      "question": "What are the two circumstances in which a general can move during a charge phase and a movement phase?",
-      "correct_answer": "A general may move on their own or with an UG they are with if it moves.",
-      "options": [
-        "A general may move on their own or with an UG they are with if it moves.",
-        "A general may move only when prompted or when avoiding fire.",
-        "A general may move when charging or retreating."
-      ]
-    },
-    {
-      "chapter": "4. Movement",
-      "question": "How is the maximum movement distance for generals not attached to a UG determined?",
-      "correct_answer": "Same as for skirmish cavalry.",
-      "options": [
-        "Same as for skirmish cavalry.",
-        "Same as for close infantry.",
-        "Same as for loose infantry."
-      ]
-    },
-    {
       "chapter": "0. Pre-Battle System",
       "question": "What are the five terrain densities mentioned in the text?",
       "correct_answer": "Very Dense, Dense, Normal, Open, Featureless",
@@ -704,6 +644,66 @@
         "M14 action."
       ]
     },
+    {
+        "chapter": "4. Movement",
+        "question": "What are the three types of terrain mentioned in the text, and where can you find more information about them?",
+        "correct_answer": "Good going, rough, difficult; see pre-battle terrain table for more info.",
+        "options": [
+          "Good going, rough, difficult; see pre-battle terrain table for more info.",
+          "Grass, sand, and water; see terrain table.",
+          "Plains, hills, and forests; see rulebook."
+        ]
+      },
+      {
+        "chapter": "4. Movement",
+        "question": "How is the movement speed of an UG affected if any base of the UG goes even partly into rough or difficult terrain?",
+        "correct_answer": "The entire UG is slowed to the speeds for rough or difficult terrain.",
+        "options": [
+          "The entire UG is slowed to the speeds for rough or difficult terrain.",
+          "Only the base in rough or difficult terrain is slowed.",
+          "UG speed is not affected."
+        ]
+      },
+      {
+        "chapter": "4. Movement",
+        "question": "When can an UG move at the speed of the remaining bases after losing some slower bases?",
+        "correct_answer": "If all slower bases are lost.",
+        "options": [
+          "If all slower bases are lost.",
+          "If at least half of slower bases are lost.",
+          "If at least one slower base is lost."
+        ]
+      },
+      {
+        "chapter": "4. Movement",
+        "question": "What factor can reduce the maximum movement distance of a unit, aside from terrain and formation?",
+        "correct_answer": "The slowing effect of fire.",
+        "options": [
+          "The slowing effect of fire.",
+          "Weight of the unit.",
+          "Experience level of the unit."
+        ]
+      },
+      {
+        "chapter": "4. Movement",
+        "question": "What are the two circumstances in which a general can move during a charge phase and a movement phase?",
+        "correct_answer": "A general may move on their own or with an UG they are with if it moves.",
+        "options": [
+          "A general may move on their own or with an UG they are with if it moves.",
+          "A general may move only when prompted or when avoiding fire.",
+          "A general may move when charging or retreating."
+        ]
+      },
+      {
+        "chapter": "4. Movement",
+        "question": "How is the maximum movement distance for generals not attached to a UG determined?",
+        "correct_answer": "Same as for skirmish cavalry.",
+        "options": [
+          "Same as for skirmish cavalry.",
+          "Same as for close infantry.",
+          "Same as for loose infantry."
+        ]
+      },
     {
       "chapter": "4. Movement",
       "question": "What are the three types of terrain mentioned in the text?",
