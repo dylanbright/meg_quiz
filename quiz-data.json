@@ -1895,7 +1895,7 @@
       "correct_answer": "A variable move distance and wheeling/turning away from the enemy.",
       "options": [
         "A fixed move distance and moving directly away from the enemy.",
-        "A variable move distance and moving directly away from the enemy.",
+        "A variable move distance and wheeling/turning away from the enemy.",
         "A fixed move distance and wheeling/turning towards the enemy."
       ]
     },
@@ -1905,7 +1905,7 @@
       "correct_answer": "They pass through them causing KaB tests where appropriate.",
       "options": [
         "They stop and rally with them.",
-        "They join forces and continue the rout.",
+        "They pass through them causing KaB tests where appropriate.",
         "They are destroyed and removed from the table."
       ]
     },
@@ -1916,7 +1916,7 @@
       "options": [
         "When they are out of command range.",
         "When they are out of formation.",
-        "When they are out of ammunition."
+        "When they are still in contact with enemy troops they are in a position to fight in melee combat."
       ]
     },
     {
@@ -1925,7 +1925,7 @@
       "correct_answer": "Infantry and cavalry/camelry/chariots with F1 prompted action.",
       "options": [
         "Mounted troops and elephants with F1 prompted action.",
-        "Infantry and archers with F2 prompted action.",
+        "Infantry and cavalry/camelry/chariots with F1 prompted action.",
         "Artillery and camps with F3 prompted action."
       ]
     },
@@ -1936,7 +1936,7 @@
       "options": [
         "The pursuit move stops and the UGs reform.",
         "The UGs continue their rout and ignore the new enemy.",
-        "The UGs must make a KaB test or be destroyed immediately."
+        "It is treated as a charge move and files may press forward."
       ]
     },
     {
@@ -1997,11 +1997,11 @@
     {
       "chapter": "9. KAB Tests",
       "question": "What is the effect of a Sword & Arrow (X) on a general during a KaB test?",
-      "correct_answer": "It wounds the general. It permanently drops the general's card allowance.",
+      "correct_answer": "It wounds the general. It also permanently drops the general's card allowance if me general is competent or better.",
       "options": [
         "It kills the general",
         "It stuns the general",
-        "It wounds the general. It permanently drops the general's card allowance."
+        "It wounds the general. It also permanently drops the general's card allowance if me general is competent or better.."
       ]
     },
     {

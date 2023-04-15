@@ -7,11 +7,14 @@
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
+  <div id="banner-div">
+     <img src="/images/banner.png" alt="Banner Image">
+  </div>
   <div id="setup">
     <h2>Select Chapters from which questions will be drawn.</h2>
     <div id="chapters"></div>
     <h2>How many questions do you want?</h2>
-    <input type="number" id="question-count" min="1">
+    <input type="number" id="question-count" min="1" pattern="\d+" title="Please enter a valid number.">
     <button id="start-btn" onclick="startQuiz()">Start Quiz</button>
   </div>
   <div id="quiz-container" style="display:none;">
@@ -34,7 +37,7 @@
     <button id="next-btn" onclick="nextQuestion()">Submit</button>
   </div>
   <div id="correct-answer" style="display:none;"></div>
-  <div id="results" style="display:none;"></div>
+  <div id="results" class="results-centered" style="display:none;"></div>
   <div id="correct-questions" style="display:none;">
     <h3>Correctly answered questions:</h3>
     <ul></ul>
@@ -42,7 +45,10 @@
   <div id="incorrect-questions" style="display:none;">
     <h3>Incorrectly answered questions:</h3>
     <ul></ul>
-  </div>  
+  </div>
+  <div id="try-again" style="display:none;">
+    <button id="try-again-btn">Try Again</button>
+  </div>
   <script src="quiz.js"></script>
 </body>
 </html>

@@ -61,20 +61,6 @@ function getRandomQuestions(count) {
   return shuffledQuestions.slice(0, count);
 }
 
-// function displayQuestion() {
-//   questionElement.textContent = selectedQuestions[currentQuestionIndex].question;
-//   optionsContainer.innerHTML = "";
-//   selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
-//     const optionElement = document.createElement("label");
-//     optionElement.innerHTML = `
-//       <br/><input type="radio" name="option" value="${option}" />
-//       ${option}
-//     `;
-//     optionsContainer.appendChild(optionElement);
-//   });
-//   // clear the feedback message
-//   questionFeedback.textContent = "";
-// }
 
 function displayQuestion() {
     questionElement.innerHTML = `<div style="text-align: left; font-size: 20px;">${selectedQuestions[currentQuestionIndex].question}</div><br>`;
@@ -139,32 +125,40 @@ function moveToNextQuestion() {
     }
   }
 
-  function showResults() {
-    const correctQuestionsContainer = document.getElementById("correct-questions");
-    const incorrectQuestionsContainer = document.getElementById("incorrect-questions");
-  
-    let correctCount = 0;
-  
-    questionResults.forEach(result => {
-      const listItem = document.createElement("li");
-      listItem.textContent = `${result.question}`;
-  
-      if (result.correct) {
-        correctQuestionsContainer.querySelector("ul").appendChild(listItem);
-        correctCount++;
-      } else {
-        const feedbackItem = document.createElement("li");
-        feedbackItem.textContent = `Incorrect. Correct answer: ${result.answer}`;
-        incorrectQuestionsContainer.querySelector("ul").appendChild(listItem);
-        incorrectQuestionsContainer.querySelector("ul").appendChild(feedbackItem);
-      }
+function showResults() {
+const correctQuestionsContainer = document.getElementById("correct-questions");
+const incorrectQuestionsContainer = document.getElementById("incorrect-questions");
+
+let correctCount = 0;
+
+questionResults.forEach(result => {
+    const listItem = document.createElement("li");
+    listItem.textContent = `${result.question}`;
+
+    if (result.correct) {
+    correctQuestionsContainer.querySelector("ul").appendChild(listItem);
+    correctCount++;
+    } else {
+    const feedbackItem = document.createElement("li");
+    feedbackItem.textContent = `Incorrect. Correct answer: ${result.answer}`;
+    incorrectQuestionsContainer.querySelector("ul").appendChild(listItem);
+    incorrectQuestionsContainer.querySelector("ul").appendChild(feedbackItem);
+    }
+});
+
+resultsContainer.innerHTML = `You scorerd ${correctCount} out of ${selectedQuestions.length}!`;
+resultsContainer.style.display = "block";
+correctQuestionsContainer.style.display = "block";
+incorrectQuestionsContainer.style.display = "block";
+
+// Display the Try Again div
+document.getElementById("try-again").style.display = "block";
+document.getElementById("try-again-btn").addEventListener("click", () => {
+    location.reload();
     });
+}
+
   
-    resultsContainer.innerHTML = `You answered ${correctCount} out of ${selectedQuestions.length} questions correctly.`;
-    resultsContainer.style.display = "block";
-    correctQuestionsContainer.style.display = "block";
-    incorrectQuestionsContainer.style.display = "block";
-  }
 
 // Load quiz data and display chapters
 loadQuizData();
