@@ -1493,10 +1493,10 @@
     },
     {
       "chapter": "6. Combat",
-      "question": "What are the three most common effects of the special characteristic 'S' in combat?",
-      "correct_answer": "Shatter, Shove, and Shieldwall",
+      "question": "What are the two most common effects of the special characteristic 'S' in combat?",
+      "correct_answer": "Shatter and Shove.",
       "options": [
-        "Shatter, Shove, and Shieldwall",
+        "Shatter and Shove.",
         "Strike, Stun, and Suppress",
         "Shock, Smash, and Stagger"
       ]
