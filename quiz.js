@@ -20,13 +20,31 @@ const submitButton = document.getElementById("submit-btn");
 const resultsContainer = document.getElementById("results");
 
 async function loadQuizData() {
-  const response = await fetch("quiz-data.json");
+  const response = await fetch("MEQ_Questions_35turbo_v2.json");
   quizData = await response.json();
   displayChapters();
 }
 
+// function displayChapters() {
+//   let uniqueChapters = [...new Set(quizData.map(q => q.chapter))].sort();
+//   uniqueChapters.forEach(chapter => {
+//     const chapterElement = document.createElement("label");
+//     chapterElement.innerHTML = `
+//       <input type="checkbox" name="chapter" value="${chapter}" />
+//       ${chapter} <br/>
+//     `;
+//     chaptersContainer.appendChild(chapterElement);
+//   });
+// }
+
 function displayChapters() {
   let uniqueChapters = [...new Set(quizData.map(q => q.chapter))];
+  uniqueChapters.sort((a, b) => {
+    const numA = parseFloat(a.split('.')[0]);
+    const numB = parseFloat(b.split('.')[0]);
+    return numA - numB;
+  });
+
   uniqueChapters.forEach(chapter => {
     const chapterElement = document.createElement("label");
     chapterElement.innerHTML = `
@@ -37,9 +55,10 @@ function displayChapters() {
   });
 }
 
+
 function startQuiz() {
-  selectedChapters = Array.from(document.querySelectorAll('input[name="chapter"]:checked')).map(chapter => chapter.value).sort();
-  selectedChapters.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
+  selectedChapters = Array.from(document.querySelectorAll('input[name="chapter"]:checked')).map(chapter => chapter.value);
+//   selectedChapters.sort((a, b) => a.localeCompare(b, undefined, { numeric: true }));
 
   const questionCount = parseInt(questionCountInput.value);
 
