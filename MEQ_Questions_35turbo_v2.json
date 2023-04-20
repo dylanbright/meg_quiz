@@ -84,27 +84,6 @@
     },
     {
         "chapter": "0. Pre-Battle System",
-        "question": "What is the purpose of setting up the terrain, and what is meant by securing the flanks?",
-        "correct_answer": "Setting up the terrain is important to do justice to all the lovely figures and the game. Securing the flanks means that items cannot be moved by the opponent.",
-        "options": [
-            "Setting up the terrain is important to do justice to all the lovely figures and the game. Securing the flanks means that items can be moved by the opponent.",
-            "Setting up the terrain is not important for gameplay. Securing the flanks means that items cannot be moved by the opponent.",
-            "Setting up the terrain is important to do justice to all the lovely figures and the game. Securing the flanks means that items cannot be moved by the opponent."
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
-        "question": "What is the maximum size of terrain items allowed for optional items?",
-        "correct_answer": "4BW x 4BW*",
-        "options": [
-            "6BW x 6BW*",
-            "8BW x 8BW*",
-            "4BW x 4BW*",
-            "10BW x 10BW*"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
         "question": "When setting up terrain, who chooses the compulsory-sized terrain and in what order are they placed?",
         "correct_answer": "The defender chooses a compulsory item, then the invader until all are chosen.",
         "options": [
@@ -232,16 +211,6 @@
     },
     {
         "chapter": "0. Pre-Battle System",
-        "question": "What type of terrain does the highland Gaul choose for the territory type?",
-        "correct_answer": "Forest",
-        "options": [
-            "Plains",
-            "Coastal",
-            "Forest"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
         "question": "What does the pre-battle period include?",
         "correct_answer": "It includes a mini-game to represent the 5 days before the battle, using the rest of the PBS command cards.",
         "options": [
@@ -294,18 +263,6 @@
     },
     {
         "chapter": "0. Pre-Battle System",
-        "question": "How many cards should each side play before the battle begins?",
-        "correct_answer": "Repeat until 5 cards each are played (or the equivalent including any passes).",
-        "options": [
-            "Repeat until 3 cards each are played (or the equivalent including any passes).",
-            "Repeat until 5 cards each are played (or the equivalent excluding any passes).",
-            "Repeat until 7 cards each are played (or the equivalent including any passes).",
-            "Repeat until 5 cards each are played (or the equivalent including any passes) and then draw additional cards.",
-            "Repeat until 5 cards each are played (or the equivalent including any passes)."
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
         "question": "What determines the number of compulsory pieces of terrain to put down?",
         "correct_answer": "Terrain density",
         "options": [
@@ -322,16 +279,6 @@
             "Invader",
             "Defender",
             "Random choice"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
-        "question": "Where did the July 12th battle take place?",
-        "correct_answer": "On a relatively open plain on the edge of a large area of wooded area",
-        "options": [
-            "In a forest",
-            "On a mountain",
-            "On a relatively open plain on the edge of a large area of wooded area"
         ]
     },
     {
@@ -440,27 +387,6 @@
     },
     {
         "chapter": "0. Pre-Battle System",
-        "question": "What are the two compulsory items of terrain mentioned in the text?",
-        "correct_answer": "A wood and a normal hill",
-        "options": [
-            "A river and a mountain",
-            "A castle and a bridge",
-            "A wood and a normal hill"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
-        "question": "What optional items of terrain did the highland Gauls choose?",
-        "correct_answer": "Two rocky hills",
-        "options": [
-            "A river and a forest",
-            "Two plains",
-            "Two rocky hills and a river",
-            "Two rocky hills"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
         "question": "What color on the terrain table represents rough terrain?",
         "correct_answer": "light-brown",
         "options": [
@@ -479,27 +405,6 @@
             "Gully",
             "Marsh",
             "Rocky Ground"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
-        "question": "What type of terrain do the Gauls have a decent flank of?",
-        "correct_answer": "rough terrain",
-        "options": [
-            "good going",
-            "rocky ground",
-            "rough terrain",
-            "open area"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
-        "question": "What type of terrain should camels and elephants be treated as?",
-        "correct_answer": "Good Going",
-        "options": [
-            "Good Going",
-            "Rough",
-            "Difficult"
         ]
     },
     {
@@ -612,16 +517,6 @@
             ">=5BW",
             ">=7BW",
             ">=6BW"
-        ]
-    },
-    {
-        "chapter": "0. Pre-Battle System",
-        "question": "What is the maximum number of UGs that can be deployed at one time?",
-        "correct_answer": "1/3 (rounded up) of their original number",
-        "options": [
-            "1/2 (rounded up) of their original number",
-            "1/3 (rounded up) of their original number",
-            "1/4 (rounded up) of their original number"
         ]
     },
     {
@@ -2494,17 +2389,6 @@
     },
     {
         "chapter": "4. Movement",
-        "question": "What move can the Gauls do to turn bases to face the enemy?",
-        "correct_answer": "MF2 move",
-        "options": [
-            "MF1 move",
-            "MF2 move",
-            "F2-F4 break off",
-            "Wheel move"
-        ]
-    },
-    {
-        "chapter": "4. Movement",
         "question": "What move can the Romans do to align to the left?",
         "correct_answer": "MF1 move",
         "options": [
@@ -2724,17 +2608,6 @@
     },
     {
         "chapter": "5. Charges and Responses",
-        "question": "What happens when Gauls charge with maximum wheel, and where can you find more information about it?",
-        "correct_answer": "The wheel cannot go beyond where the Roman velites are positioned; see Path of Charge section for more info.",
-        "options": [
-            "The wheel can go beyond where the Roman velites are positioned; see Path of Charge section for more info.",
-            "The wheel can only be used by Roman legionaries; see Roman army section for more info.",
-            "The wheel can only be used by Gallic warriors; see Gallic army section for more info.",
-            "The wheel cannot go beyond where the Roman velites are positioned; see Path of Charge section for more info."
-        ]
-    },
-    {
-        "chapter": "5. Charges and Responses",
         "question": "What are the two conditions that must apply to claim the benefit of a flank or rear charge bonus, and how is the 1BW x 1BW marker placed?",
         "correct_answer": "The file must start with its entire front edge behind the line extending the front edge of the target file at the time it is moved, and there must be a 1BW x 1BW space next to the flank or rear base charged that has no other enemy TuG\u2019s front corner or front edge in it or touching it. The 1BW x 1BW marker is placed in corner-to-corner and edge-to-edge contact with the base edge being charged, and set back towards the direction of charge; see Flank/Rear Charges section for more info.",
         "options": [
@@ -2889,27 +2762,6 @@
             "1 file claims a bonus by having their entire front edge behind the necessary line.",
             "2 files claim a bonus by having their entire front edge behind the necessary line.",
             "All files claim a bonus by having their entire front edge behind the necessary line."
-        ]
-    },
-    {
-        "chapter": "5. Charges and Responses",
-        "question": "What is an intercept?",
-        "correct_answer": "Cataphracts make an intercept with a card and move directly forwards into the path of charge - but do not contact the Gauls.",
-        "options": [
-            "Cataphracts make an intercept with a card and move directly forwards into the path of charge - but do not contact the Gauls.",
-            "Cataphracts charge the Gauls from the flank.",
-            "Cataphracts run away from the Gauls."
-        ]
-    },
-    {
-        "chapter": "5. Charges and Responses",
-        "question": "What is an intercept move?",
-        "correct_answer": "An intercept move is when the Parthian cataphracts move directly forwards into the path of a charge but do not contact the Gauls.",
-        "options": [
-            "An intercept move is when the Gauls charge the Parthian infantry but the cataphracts are too far away to be the subject of their charge.",
-            "An intercept move is when the Parthian infantry charge the Gauls and the cataphracts move to the side.",
-            "An intercept move is when the Gauls charge the Parthian infantry and the cataphracts charge the Gauls.",
-            "An intercept move is when the Parthian cataphracts move directly forwards into the path of a charge but do not contact the Gauls."
         ]
     },
     {
@@ -3769,16 +3621,6 @@
     },
     {
         "chapter": "6. Combat",
-        "question": "What is protecting the flank of the Gauls in this example?",
-        "correct_answer": "The presence of the orange TuG that is also in contact with the attacking file.",
-        "options": [
-            "The presence of the orange TuG that is also in contact with the attacking file.",
-            "The flanking Gallic warriors.",
-            "The two bases against one."
-        ]
-    },
-    {
-        "chapter": "6. Combat",
         "question": "If bases fight to flank or rear, what can they not provide in a frontal fight?",
         "correct_answer": "Rear ranks.",
         "options": [
@@ -4008,27 +3850,7 @@
     },
     {
         "chapter": "6. Combat",
-        "question": "What advantage do the Gauls have in charge combat against Roman legionaries?",
-        "correct_answer": "Devastating charger.",
-        "options": [
-            "Impact weapon.",
-            "Shove.",
-            "Devastating charger."
-        ]
-    },
-    {
-        "chapter": "6. Combat",
-        "question": "What is the advantage of Gauls in charge combat when facing Roman legionaries?",
-        "correct_answer": "They have a devastating charger",
-        "options": [
-            "They have a devastating charger",
-            "They have more soldiers",
-            "They have better armor"
-        ]
-    },
-    {
-        "chapter": "6. Combat",
-        "question": "What happens when Gauls get a 'shatter' in charge combat?",
+        "question": "What happens when a file get a 'shatter' in charge combat?",
         "correct_answer": "It boosts the next file by +2",
         "options": [
             "The Gauls retreat",
@@ -4054,16 +3876,6 @@
             "The Romans are 1 up due to melee expert.",
             "The Romans have a numerical advantage.",
             "The Romans have better weapons."
-        ]
-    },
-    {
-        "chapter": "6. Combat",
-        "question": "What happens if the Romans are only 1 rank deep when the Gauls attempt to shove?",
-        "correct_answer": "There is no chance of a shove.",
-        "options": [
-            "The Gauls automatically win the shove.",
-            "The Romans get a bonus to their melee rolls.",
-            "There is no chance of a shove."
         ]
     },
     {
