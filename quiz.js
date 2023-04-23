@@ -83,20 +83,40 @@ function getRandomQuestions(count) {
 }
 
 
+// function displayQuestion() {
+//     questionElement.innerHTML = `<div style="text-align: left; font-size: 20px;">${selectedQuestions[currentQuestionIndex].question}</div><br>`;
+//     optionsContainer.innerHTML = "";
+//     selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
+//       const optionElement = document.createElement("label");
+//       optionElement.innerHTML = `
+//         <input type="radio" name="option" value="${option}" />
+//         ${option}<br>
+//       `;
+//       optionsContainer.appendChild(optionElement);
+//     });
+//     // clear the feedback message
+//     questionFeedback.textContent = "";
+//   }
+
+
 function displayQuestion() {
-    questionElement.innerHTML = `<div style="text-align: left; font-size: 20px;">${selectedQuestions[currentQuestionIndex].question}</div><br>`;
-    optionsContainer.innerHTML = "";
-    selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
-      const optionElement = document.createElement("label");
-      optionElement.innerHTML = `
-        <input type="radio" name="option" value="${option}" />
-        ${option}<br>
-      `;
-      optionsContainer.appendChild(optionElement);
-    });
-    // clear the feedback message
-    questionFeedback.textContent = "";
-  }
+  const questionText = selectedQuestions[currentQuestionIndex].question;
+  const encodedQuestionText = encodeURIComponent(questionText);
+  const feedbackFormURL = `https://docs.google.com/forms/d/e/1FAIpQLSeho1ZddzxA77KTQgcwd1VONPGRiP1i0Nh15ls1SSk7uWyMcQ/viewform?entry.1919496023=${encodedQuestionText}`;
+  const feedbackLinkContainer = document.getElementById("feedback-link-container");
+
+  questionElement.innerHTML = `<div style="text-align: left; font-size: 20px;">${questionText}</div><br>`;
+  feedbackLinkContainer.innerHTML = `<br><br><br><a href="${feedbackFormURL}" target="_blank">Didn't like the quesiton?  Open the question feedback for in a new tab.</a>`;
+  optionsContainer.innerHTML = "";
+  selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
+    const optionElement = document.createElement("label");
+    optionElement.innerHTML = `
+      <input type="radio" name="option" value="${option}" />
+      ${option}<br>
+    `;
+    optionsContainer.appendChild(optionElement);
+  });
+}
   
 
 function nextQuestion() {
