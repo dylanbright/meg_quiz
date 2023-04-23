@@ -92,7 +92,7 @@ function displayQuestion() {
 
   const currentQuestionNumber = currentQuestionIndex + 1;
   const totalQuestions = selectedQuestions.length;
-
+  questionFeedback.innerHTML= ""
   questionElement.innerHTML = `<div style="text-align: center; font-size: 18px; font-weight: bold">${currentQuestionNumber} of ${totalQuestions}</div><div style="text-align: left; font-size: 20px;">${questionText}</div><br>`;
   feedbackLinkContainer.innerHTML = `<br><br><br><a href="${feedbackFormURL}" target="_blank">Didn't like the quesiton?  Click here to open the question feedback for in a new tab.</a>`;
   optionsContainer.innerHTML = "";
