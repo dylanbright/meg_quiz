@@ -115,3 +115,11 @@ body {
   .about_quiz_text {
     text-align: left;
   }
+
+  #feedback-link-container {
+    text-align: center;
+  }
+  
+  #feedback-link-container a {
+    font-size: 12px;
+  }

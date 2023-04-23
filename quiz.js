@@ -106,7 +106,7 @@ function displayQuestion() {
   const feedbackLinkContainer = document.getElementById("feedback-link-container");
 
   questionElement.innerHTML = `<div style="text-align: left; font-size: 20px;">${questionText}</div><br>`;
-  feedbackLinkContainer.innerHTML = `<br><br><br><a href="${feedbackFormURL}" target="_blank">Didn't like the quesiton?  Open the question feedback for in a new tab.</a>`;
+  feedbackLinkContainer.innerHTML = `<br><br><br><a href="${feedbackFormURL}" target="_blank">Didn't like the quesiton?  Click here to open the question feedback for in a new tab.</a>`;
   optionsContainer.innerHTML = "";
   selectedQuestions[currentQuestionIndex].options.forEach((option, index) => {
     const optionElement = document.createElement("label");
