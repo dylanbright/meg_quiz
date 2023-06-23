@@ -1946,16 +1946,6 @@
         ]
     },
     {
-        "chapter": "3. Formations",
-        "question": "What advice is given for using Sassanid levy spearmen in battle?",
-        "correct_answer": "They can be effective filler, but should not be relied upon to win battles.",
-        "options": [
-            "They should be used as the main fighting force.",
-            "They are not useful in battle.",
-            "They can be effective filler, but should not be relied upon to win battles."
-        ]
-    },
-    {
         "chapter": "4. Movement",
         "question": "What are the three types of terrain mentioned in the text, and where can you find more information about them?",
         "correct_answer": "Good going, rough, difficult; see pre-battle terrain table for more info.",
@@ -2752,16 +2742,6 @@
             "The universal \u00bd BW shift rule applies to get around friends.",
             "The universal 1 BW shift rule applies to get around friends.",
             "The universal 2 BW shift rule applies to get around friends."
-        ]
-    },
-    {
-        "chapter": "5. Charges and Responses",
-        "question": "How many files claim a bonus by having their entire front edge behind the necessary line in the FLANK CHARGE!! example?",
-        "correct_answer": "1 file claims a bonus by having their entire front edge behind the necessary line.",
-        "options": [
-            "1 file claims a bonus by having their entire front edge behind the necessary line.",
-            "2 files claim a bonus by having their entire front edge behind the necessary line.",
-            "All files claim a bonus by having their entire front edge behind the necessary line."
         ]
     },
     {
@@ -3767,17 +3747,6 @@
     },
     {
         "chapter": "6. Combat",
-        "question": "What type of weapon did the Romans use during impact in Example 1, and what was the result of their charge?",
-        "correct_answer": "The Romans used pila during impact and their charge killed a base and put a hanging wound on the spearmen.",
-        "options": [
-            "The Romans used swords during impact and their charge killed a base and put a hanging wound on the spearmen.",
-            "The Romans used bows during impact and their charge killed two bases of the spearmen.",
-            "The Romans used pila during impact and their charge killed two bases of the spearmen.",
-            "The Romans used pila during impact and their charge killed a base and put a hanging wound on the spearmen."
-        ]
-    },
-    {
-        "chapter": "6. Combat",
         "question": "What types of troops are not affected by terrain, even though their rear is in terrain?",
         "correct_answer": "Gallic warriors and Greek cavalry are not affected by terrain, even though their rear is in terrain.",
         "options": [
@@ -4159,26 +4128,6 @@
     },
     {
         "chapter": "7. Shooting",
-        "question": "In the example given, what is the effect of the wood on the shooting of the left-hand file?",
-        "correct_answer": "The front edge of the left-hand file is not in the wood. It shoots with no downgrade for reduced ranks and does not count as in cover.",
-        "options": [
-            "The left-hand file cannot shoot at all due to the presence of the wood.",
-            "The left-hand file can shoot normally, but with a downgrade for reduced ranks.",
-            "The front edge of the left-hand file is not in the wood. It shoots with no downgrade for reduced ranks and does not count as in cover."
-        ]
-    },
-    {
-        "chapter": "7. Shooting",
-        "question": "What is the penalty for shooting through the wood and reduced ranks for the right-hand file?",
-        "correct_answer": "Downgrades",
-        "options": [
-            "No penalty",
-            "Bonus",
-            "Downgrades"
-        ]
-    },
-    {
-        "chapter": "7. Shooting",
         "question": "When can UGs choose to use shield cover?",
         "correct_answer": "In the shooting phase",
         "options": [
@@ -4195,17 +4144,6 @@
             "If the target base is in a specific position",
             "If the shooting file has more bases than the target file",
             "If a shooting file has all its front edge ahead of the target file"
-        ]
-    },
-    {
-        "chapter": "7. Shooting",
-        "question": "What is the slowing effect of fire and how is it simulated in MeG?",
-        "correct_answer": "Skirmishers slow down opposing troops by shooting them up enough; this is the slowing effect of fire and is simulated in MeG.",
-        "options": [
-            "Skirmishers speed up opposing troops by shooting them up enough; this is the speeding effect of fire and is simulated in MeG.",
-            "Skirmishers slow down opposing troops by running into them; this is the slowing effect of collision and is simulated in MeG.",
-            "Skirmishers slow down opposing troops by shouting at them; this is the psychological slowing effect and is simulated in MeG.",
-            "Skirmishers slow down opposing troops by shooting them up enough; this is the slowing effect of fire and is simulated in MeG."
         ]
     },
     {
@@ -4273,7 +4211,7 @@
     },
     {
         "chapter": "7. Shooting",
-        "question": "What is the effect of a RED card on a general who has been slowed down by fire?",
+        "question": "What is the effect of a RED card on an UG who has been slowed down by fire?",
         "correct_answer": "Recovers 2BW of movement distance.",
         "options": [
             "Recovers 1BW of movement distance.",
@@ -4313,16 +4251,6 @@
     },
     {
         "chapter": "7. Shooting",
-        "question": "What is the shooting outcome in Example 1, where one TuG is Persian Immortals and the other is some levy bowmen?",
-        "correct_answer": "The Immortals win and the levy are removed",
-        "options": [
-            "The levy win and the Immortals are removed",
-            "Both units are destroyed",
-            "The Immortals win and the levy are removed"
-        ]
-    },
-    {
-        "chapter": "7. Shooting",
         "question": "What is a TuG?",
         "correct_answer": "A TuG is a tactical unit group.",
         "options": [
@@ -4353,16 +4281,6 @@
     },
     {
         "chapter": "7. Shooting",
-        "question": "What is the result for the superior legionaries after being subjected to concentrated shooting, including shield cover and skilled vs. average shooting?",
-        "correct_answer": "They are slowed by 3BW and stationary, with one base lost due to two wounds and three total hits.",
-        "options": [
-            "They are slowed by 1BW and moving, with one base lost due to one wound and two total hits.",
-            "They are slowed by 3BW and stationary, with one base lost due to two wounds and three total hits.",
-            "They are slowed by 2BW and moving, with no bases lost but two total hits."
-        ]
-    },
-    {
-        "chapter": "7. Shooting",
         "question": "What effect do the light cavalry skirmishers have on heavy troops in MeG?",
         "correct_answer": "They block the progress of heavy troops through the slowing effect of fire.",
         "options": [
@@ -4370,17 +4288,6 @@
             "They have no effect on heavy troops.",
             "They create a smokescreen that obscures the view of heavy troops.",
             "They block the progress of heavy troops through the slowing effect of fire."
-        ]
-    },
-    {
-        "chapter": "7. Shooting",
-        "question": "What is the Testudo formation, and how did it help Roman legionaries resist missile fire?",
-        "correct_answer": "The Testudo formation is when Roman legionaries lock together their large shields when under fire, allowing them to resist missile fire well.",
-        "options": [
-            "The Testudo formation is when Roman legionaries form a phalanx with their spears and shields, allowing them to advance on enemy lines.",
-            "The Testudo formation is when Roman legionaries form a circle around their commander, allowing them to protect him from enemy attacks.",
-            "The Testudo formation is when Roman legionaries form a line of archers behind their shields, allowing them to fire arrows at enemy troops while remaining protected.",
-            "The Testudo formation is when Roman legionaries lock together their large shields when under fire, allowing them to resist missile fire well."
         ]
     },
     {
